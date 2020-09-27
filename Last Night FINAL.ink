@@ -15,6 +15,7 @@ You have a message
         -> Chapter_1 
 
 ==== Chapter_1 ====
+#VIDEO: media/walk-animation_720_1.webm
 SMS Skyler: I know we were talking about doing that poetry reading tongiht, but my friend Jordan (I think you’ve met???) is having a party tonight 🍺 Any interest?
 SMS Ezra: That could be fun 🎉 We are celebrating, after all. 🍾 
 You sigh. The previous term drained you and you still haven't fully recovered. Why did you have to sign up for 16 credits? Why did you party practically every weekend? You could really use a detox. 
