@@ -97,6 +97,7 @@
                 else if( tag == "CLEAR" || tag == "RESTART" ) {
                     removeAll("p");
                     removeAll("img");
+                    removeAll("video");
 
                     // Comment out this line if you want to leave the header visible when clearing
                     setVisible(".header", false);
