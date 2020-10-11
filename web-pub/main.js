@@ -78,7 +78,8 @@
 
                     var sourceElement = document.createElement('SOURCE'); //add other options if webm not supported. see: https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_video_autoplay2
                     sourceElement.src = splitTag.val;
-                    sourceElement.type = 'video/webm';
+                    //sourceElement.type = 'video/webm';
+                    sourceElement.type = 'video/mp4';
 
                     videoElement.appendChild(sourceElement)
                     storyContainer.appendChild(videoElement);

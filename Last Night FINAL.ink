@@ -15,6 +15,9 @@ You have a message
         -> Chapter_1 
 
 ==== Chapter_1 ====
+
+# VIDEO: media/anim_section-2.mp4
+
 SMS Skyler 7:01p.m: I know we were talking about doing that poetry reading tonight, but my friend Jordan (I think you’ve met???) is having a party tonight 🍺 Any interest?
 SMS Ezra 7:02 p.m: That could be fun 🎉 We are celebrating, after all. 🍾 
 You sigh. You had suggested the poetry reading as something interesting you could all do together that wouldn't be quite as exhausting as staying out until 4 a.m. getting black out drunk.
