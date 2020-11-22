@@ -5,21 +5,73 @@
 # author: Midgray
 // -----------------------------
 
+-> gender_pref
 
--> SMS_Choice
+VAR sub_p = "they"
+VAR sub_pc = "They"
+VAR obj_p = "them"
+VAR obj_pc = "Them"
+VAR pos_p = "theirs"
+VAR pos_pc = "Theirs"
+VAR pos_a = "their"
+VAR pos_ac = "Their"
 
+VAR s = ""
+
+=== function set_gender(x) ===
+{ 
+    - x == "girls":
+        ~ sub_p = "she"
+        ~ sub_pc = "She"
+        ~ obj_p = "her"
+        ~ obj_pc = "Her"
+        ~ pos_p = "hers"
+        ~ pos_pc = "Hers"
+        ~ pos_a = "her"
+        ~ pos_ac = "Her"
+        ~ s = "s"
+    - x == "boys":
+        ~ sub_p = "he"
+        ~ sub_pc = "He"
+        ~ obj_p = "him"
+        ~ obj_pc = "Him"
+        ~ pos_p = "his"
+        ~ pos_pc = "His"
+        ~ pos_a = "his"
+        ~ pos_ac = "His"
+        ~ s = "s"
+    - else: 
+        ~ sub_p = "they"
+        ~ sub_pc = "They"
+        ~ obj_p = "them"
+        ~ obj_pc = "Them"
+        ~ pos_p = "theirs"
+        ~ pos_pc = "Theirs"
+        ~ pos_a = "their"
+        ~ pos_ac = "Their"
+        ~ s = ""
+}
+
+==== gender_pref ====
+To start, are you generally attracted to…
+    + [Girls] You like girls. {set_gender("girls")} 
+        -> SMS_Choice
+    + [Boys] You like boys. {set_gender("boys")}
+        -> SMS_Choice
+    + [Both/Either] You like everyone. {set_gender("both")}
+        -> SMS_Choice
 
 ==== SMS_Choice ====
 You have a message
-  + Open message
+  + [Open message]
         -> Chapter_1 
-
+        
 ==== Chapter_1 ====
 
 # VIDEO: media/anim_section-2-lfr.mp4
 
-SMS Skyler 7:01p.m: I know we were talking about doing that poetry reading tonight, but my friend Jordan (I think you’ve met???) is having a party tonight 🍺 Any interest?
-SMS Ezra 7:02 p.m: That could be fun 🎉 We are celebrating, after all. 🍾 
+SMS Skyler 7:01 p.m.: I know we were talking about doing poetry reading tonight, but my friend Jordan (I think you’ve met???) is having a party tonight 🍺 Any interest?  # CLASS: sms
+SMS Ezra 7:02 p.m.: That could be fun 🎉 We are celebrating, after all. 🍾 # CLASS: sms
 You sigh. You had suggested the poetry reading as something interesting you could all do together that wouldn't be quite as exhausting as staying out until 4 a.m. getting black out drunk.
 But in a few days you're leaving. This could be your last chance to have any fun all summer. You'll be going to Washington D.C. to intern for an environmental nonprofit. It will certainly be a great career move, but you're not sure it's really going to be the time of your life— a feeling that was readily corroborated when you prematurely changed the location on your dating apps to D.C. You tried to imagine yourself hooking up with some clean-cut Capitol Hill intern and decided it was better to just start accepting now that it would likely be a dry summer.
 You don't want to keep everyone else from having fun and force them to do the thing you want to do if they're really not into. But you can't imagine going to the poetry reading alone while everyone else goes to the party without you. You think about what it would be like to sit by yourself in some hard plastic chair in an overly air conditioned bookstore, clutching onto a plastic cup of cheap red wine waiting for the event to start. You'll scroll through your friend's social media updates and pretend to be like you're fine being alone, but you won't be. 
@@ -76,10 +128,13 @@ You share your first kiss while picnicking at a swimming hole the day before you
 "Well, I would love a little teaser of what's to come now." You say coyly. "Can I kiss you?"
 Jay smiles and leans over, your mouths meet softly. 
 It's a perfect day. You lay on beach towels enjoying eachother's lips and taking intermittent dips into the cool water until the sandy bank is fully enveloped in shadow. 
+The end. # CLASS: end
+    + [Rewind?]
+        -> SMS_Choice
     -> END
 
 = youAskForJaysNum
-You ask for Jay's number, which they happily enter into your phone. They then text themsevles immediately from your phones so that they'll have your number too. That's a good sign, you think.
+You ask for Jay's number, which {sub_p} happily enter{s} into your phone. {sub_pc} then text themselves immediately from your phones so that they'll have your number too. That's a good sign, you think.
 You give an awkward little wave and head home. You're not quite sure what to do with yourself now, so you think about texting Ezra and Skyler. 
   + SMS 11:16 p.m: Are you still out?
         -> sMSPmWereAtMyPla 
