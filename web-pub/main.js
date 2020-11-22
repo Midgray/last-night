@@ -19,10 +19,10 @@
             }
 
             // author: Your Name
-            else if( splitTag && splitTag.property == "author" ) {
-                var byline = document.querySelector('.byline');
-                byline.innerHTML = "by "+splitTag.val;
-            }
+            // else if( splitTag && splitTag.property == "author" ) {
+            //     var byline = document.querySelector('.byline');
+            //     byline.innerHTML = "by "+splitTag.val;
+            // }
         }
     }
 
