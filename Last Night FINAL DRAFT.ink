@@ -296,7 +296,7 @@ You check the time on your phone. You missed the film. You could go with them. O
 Sam and Skyler look slightly taken aback.
 "Well, whatever." Sam says, and you realize {sub_p} {is_are} clearly angry with you. "I'm ready to go." {sub_pc} pause{s} as if waiting to give you a chance to change your mind. And you're tempted. You don't want to disappoint Sam, but you let {obj_p} walk out the door anyway.
 You return to the kitchen, scanning the crowd for Lei. You spot {obj_p} and try to catch {pos_a} eye as you walk toward {obj_p}. 
-Lei turns toward you. You both say say hi at the same time, and it's a little awkward. You ask how {sub_p} {has_have} been, and the conversation keeping going beyond that. {sub_pc} tell{s} you about going to community college, about missing their friends, about transferring here for {pos_a} junior year. {sub_pc} {has_have} started a new job and have an apartment off campus. 
+Lei turns toward you. You both say say hi at the same time, and it's a little awkward. You ask how {sub_p} {has_have} been, and the conversation keeping going beyond that. {sub_pc} tell{s} you about going to community college, about missing their friends, about transferring here for {pos_a} junior year. {sub_pc} {has_have} started a new job and {has-have} an apartment off campus. 
 You're relieved that the awkardness has passed and that {sub_pc} {is_are} being friendly. It's been awhile, but maybe you're still friends after all. Maybe you just needed some time apart to realize you still cared about each other. 
 Talking to Lei feels comfortable and comforting. {sub_pc} {is_are} a lot easier to talk to than a lot of the people you've met since you started here. You're not sure if you miss being with {obj_p}, but this feels a little like coming home. 
 You do notice that {sub_p} {hasnt_havent} said anything about seeing anyone else. 
@@ -501,7 +501,7 @@ You try to laugh it off. "I'm fine! Just a little disoriented after being in tha
 = youFollowLeiAndP
 You follow Lei and parade through dimly lit streets with a group of six others in tow. Lei makes some quick introductions. You say hi to two people you realize you went to high school with, but otherwise never knew very well. Everyone else is a stranger. 
 As you walk someone plays music from a phone. Small bottles are passed around out of oversized purses. The bottles occasionally find their way into your hands and you drink. You will yourself to walk straight and try to speak with intention behind each word — you're not sure if you're trying to convince yourself you're not drunk, or everyone else.
-Lei's apartment is one of those 1960's 3-bedrooms on the edge of campus that have paper-thin walls and ugly brown carpeting. You quickly surmise that two of the strangers in the group are Lei's new housemates. 
+Lei's apartment is one of those 1960's three-bedrooms on the edge of campus that have paper-thin walls and ugly brown carpeting. You quickly surmise that two of the strangers in the group are Lei's new housemates. 
 You all pile into the living room and Lei pulls you over to share the couch. Liquor bottles and cheap beer are placed onto a flat-pack coffee table and everyone is filling up cups. A joint is passed around. 
 One of the roommates, Daniel, offers to do tarot readings. When your turn comes up you oblige and draw a card.
 "Ohhhhh, the reversed Lovers!" Daniel declares, clucking his tongue. "Someone has been up to no good. You've been cheating and cutting corners and untrue to you and everyone around you. This card is a bitch slap you need to tell you it's time to get right with your Higher Self."
@@ -516,10 +516,10 @@ You're actually going to hook up.
 "Ignore them." Lei says flipping on the lights to the room. "They're idiots. I actually just wanted to show you something." The single uncovered bulb in the middle of the ceiling illuminates a sparsley decorated room lined with cardboard boxes. There's a double bed, a dresser, and a desk so messy you can't see the top. There is no desk chair.
 "I'm still getting settled. It's been hard with my work schedule and all the partying there is to do here." Lei says laughing. "I'm sure I'll get it all sorted out by the time school starts. 
 Lei digs through a few boxes and gives a little "ah" when {sub_p} uncover{s} whatever it is {sub_p} {was_were} looking for. {sub_pc} sit{s} down on the bed holding a copy of the high school yearbook from your Senior year.
-"I haven't seen that thing in years. Mine's at my parent's house still." You're still standing in the middle of the room and feeling wobbly. Given that there's nowhere else to sit in the room, it's probably weirder if you don't sit on the bed. The springs creak underneath your weight. 
+"I haven't seen that thing in years. Mine's still at my parents house." You're still standing in the middle of the room and feeling wobbly. Given that there's nowhere else to sit in the room, it's probably weirder if you don't sit on the bed. The springs creak underneath your weight. 
 "Yeah, I found it when I was packing. I'm sort of sentimental I guess." Lei says flipping through the pages. "I decided I couldn't leave it." 
 "I'm actually really glad I ran into you tonight." Lei continues. "After I looked through this I was kind of bummed out we don't really talk anymore. I know we were like...together, or whatever. But we were also such good friends in high school." The tenor of {pos_a} voice is unmistakably giddy; {pos_a} speech somewhat slurred.
-Lei stops and holds the book open to a page highlighting the Model United Nations club. You and Lei are seated among fourteen other members, your arms around each other smiling for the camera. You had just successfully brokered a resolution to provide aid to several Southeast Asian countries who had their grain supply devastated by record flooding. You feel a little sad looking at the picture, knowing you would be breaking up with Lei just a few weeks later.
+Lei stops and holds the book open to a page highlighting the Model United Nations club. You and Lei are seated among fourteen other members, your arms around each other smiling for the camera. You had just successfully brokered a resolution to provide aid to several Southeast Asian countries whose grain supply was devastated by record flooding. You feel a little sad looking at the picture, knowing you would be breaking up with Lei just a few weeks later.
 "Anyway, I miss being friends. I hope maybe now that we're living in the same place again we can kind of start over." 
 Lei looks at you. Your faces are close. This feels like the moment you've been waiting for. 
   + "Is that all you want to be?"
@@ -532,7 +532,7 @@ You place your mouth on Lei's. It's so familiar, but there's also something new 
 You remember your times together in high school. Of course, they were few and far between. You were never allowed to go to each other's houses without a parent being home, and a packed schedule of academics, sports, and clubs made the logistics of sneaking around difficult. 
 You wonder what it will be like now that you don't have to worry about your dad barging in, or someone walking by the window of the car. It had always been good, when you were together but now will it be louder? More uninhibited? You're eager to find out what Lei has learned in the time you spent with other people. 
 You remove your shirt and then start unbuttoning Lei's with one hand. Next your shorts. 
-You slide your hands down Lei's ribs toward the elastic waistband of {pos_a} shorts and wriggle them off. As you're doing this it occurs to you that according to everything you learned at freshman year orientation this is supposed to be the moment you establish consent. But you've hooked up countless times before. {sub_pc} invited you back to {pos_a} house. To {pos_a} room. If that wasn't {pos_a} intention would you really be here right now? 
+You slide your hands down Lei's ribs toward the waistband of {pos_a} shorts and start to wriggle them off. As you're doing this it occurs to you that according to everything you learned at freshman year orientation this is supposed to be the moment you establish consent. But you've hooked up countless times before. {sub_pc} invited you back to {pos_a} house. To {pos_a} room. If that wasn't {pos_a} intention would you really be here right now? 
 And really you have a pretty spotty track record when it comes to talking about consent with your hookups and it's always been fine. Of course, it's been brought up a few times over the years. Once someone actually laughed at you for asking if you could kiss {obj_p}. You remember your entire body growing sweaty with embarrassment. After that you decided maybe you were being a little uptight. 
   + "Are you okay with this?"
         -> theresALongPause 
@@ -545,9 +545,9 @@ Your reunion is exactly what you hoped it would be. The alcohol blurs the edges 
 And then you find that edge and it turns out to be a cliff. You fall off of it and you collapse.
 "I'm sorry. I think I might be a little too drunk to keep going" You slump onto the bed next to Lei.
 Lei doesn't say anything. {sub_pc} just lay{s} there, looking up at the ceiling. But not really at the ceiling. Something beyond it that you can't see.
-"Hey, really, I'm sorry. I swear it's not you or anything" You insist. 
+"Hey, really, I'm sorry. I swear it's not about you or anything. I'm just kind of out of it." You insist. 
 "Huh? Yeah." Lei seems to be stirring from a dream, obviously more drunk than you realized. "Right. It's fine. Look, I think you should go. I have work early tomorrow."
-You're taken aback by the abruptness. 
+You're taken aback by {pos_a} abruptness. 
 "Oh, um. Okay then." You say. You thought you would be staying the night. You know it's not uncommon for hookups to treat you like a pariah in the weeks following, but this feels extreme. Were you really that bad?
 You pull your clothes on. You're waiting for Lei to say something, but there's only silence. {sub_pc} won't even look at you. 
 You try again. "Are you okay? I'm sorry if I did or said something to upset you."
