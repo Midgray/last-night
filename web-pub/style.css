@@ -147,7 +147,8 @@ h2 {
 *  Title page
 **/
 #front-body {
-    background: #323132;
+    /* background: #323132; */
+    background-color: #2B2B2B;
 }
 
 /* Navigation */
