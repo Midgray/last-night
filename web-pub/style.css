@@ -13,36 +13,8 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
-    background: white;
-}
-
-body.dark {
-    background: black;
-    color: white;
-}
-
-#story h1, #story h2 {
-    text-align: center;
-    font-family: "Quattrocento", Georgia, 'Times New Roman', Times, serif;
-    margin: 0;
-    padding: 0;
-}
-
-#story h1 {
-    font-size: 30pt;
-    margin-bottom: 10px;
-}
-
-#story h2 {
-    font-size: 14pt;
-    font-style: italic;
-    font-family: sans-serif;
-    font-weight: lighter;
-    color: #BBB;
-}
-
-.dark h2 {
-    color: #666;
+    background: #313941;
+    color: #9b9b9b;
 }
 
 .header {
@@ -50,35 +22,14 @@ body.dark {
     padding-bottom: 3em;
 }
 
-h3.written-in-ink {
-    font-size: 9pt;
-    font-family: sans-serif;
-    text-align: center;
-    font-weight: 700;
-    position: fixed;
-    display: block;
-    width: 100%;
-    background: white;
-    margin: 0;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    top: 0;
-}
-
-.dark h3.written-in-ink {
-    background: black;
-}
-
-/*TEST THIS OUT ON iOS TO MAKE SURE COMMENTING IT OUT DOESNT BREAK IT*/
-
 /* Seems necessary to make iframes work on itch.io on mobile iOS :-( */
 .outerContainer {
-    position: absolute; /* Re-enable this to fix the scroll distance */
+    position: absolute;
     display: block;
     margin: 0;
     padding: 0;
     -webkit-overflow-scrolling: touch;
-    overflow: scroll;
+    overflow: auto;
     height: 100%;
     width: 100%;
     top: 0;
@@ -90,12 +41,8 @@ h3.written-in-ink {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    padding-top: 4em;
-    background: white;
-}
-
-.dark .container {
-    background: black;
+    padding-top: 3em;
+    /* background: white; */
 }
 
 .container p {
@@ -105,43 +52,16 @@ h3.written-in-ink {
     width: 60%;
 }
 
-/* Also added for text block and image width thing */
-@media screen and (max-width: 800px) {
-    p {
-      width: 100%;
-    }
-  }
-
-#story a {
-    font-weight: 700;
-    color: #b97c2c;
-    font-family: sans-serif;
-    transition: color 0.6s;
-    text-decoration: none;
-}
-
-.dark a {
-    color: #cc8f1a;
-    transition: color 0.6s;
-}
-
-.dark a:hover {
-    color: white;
-}
-
 strong {
     color: black;
     font-weight: bold;
 }
 
-.dark strong {
-    color: white;
-}
-
+/* Custom img and video tags */
 img {
     display: block;
     margin: 0 auto;
-    max-width: 100%;
+    max-width: 90%;
 }
 
 video {
@@ -185,25 +105,17 @@ p.choice {
 .end {
     text-align: center;
     font-weight: bold;
-    color: black;
+    color: white;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-.dark .end {
-    color: white;
-}
 .sms {
   font-size: 16px;
   font-family: Helvetica, sans-serif;
   /* padding: 16px; */
   /* border: solid; */
   /* border-width: thin; */
-}
-
-body {
-  background-color: #313941;
-  color: #9b9b9b;
 }
 
 p {
@@ -220,7 +132,7 @@ h1 {
   font-family: Helvetica;
   font-weight: bold;
   font-size: 45px;
-  letter-spacing: 2px;
+  /* letter-spacing: 2px; */
   margin: 0 auto;
   text-transform: uppercase;
 }
@@ -231,14 +143,11 @@ h2 {
   font-weight: lighter;
 }
 
-/*  Title area */
-.masthead {
-  background-color: #d8d8d8;
-  max-width: 1200px;
-  margin: auto;
-  color: #9b9b9b;
-  padding: 28px;
-}
+/**
+*  Title
+**/
+
+/* Navigation */
 
 .nav-container {
   display: grid;
@@ -246,6 +155,7 @@ h2 {
   grid-template-rows:auto;
   justify-items: stretch;
   align-items: start;
+
   margin: 0 28px 0 28px;
 }
 
@@ -271,44 +181,119 @@ h2 {
   text-align: right;
 }
 
-.nav-story {
-  position: absolute;
-  z-index: 2;
-  width: 100%;
+/* scrolling behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Above the fold */
+
+.above {
+  max-width: 1200px;
+  margin: auto;
+  color: #9b9b9b;
+  padding: 28px;
+}
+
+.above-graphics {
+  height: 100vh;
+  max-height: 800px;
+  /* display: flex; */
+  /* justify-content: center; */
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 2fr 100px;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  justify-items: stretch;
+  align-items: stretch;
 }
 
 #title-illustration {
-  display: flex;
+  /* display: flex; */
   padding: 100px 40px;
-}
-
-#title-illustration svg {
+  place-self: center stretch;
   margin: auto;
 }
 
+#title-illustration svg {
+  width: 100%;
+}
+
+/* Down arrow */
+
+.arrow a {
+  color: #9b9b9b;
+  text-decoration: none;
+}
+
+.arrow {
+  text-align: center;
+  margin: -8% 0;
+}
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+/* Front matter */
+
 #title-container {
-  display: flex;
+  /* display: flex; */
   align-items: center;
   justify-content: space-between;
   margin: 0 28px;
 }
 
 #main-title {
-  flex: 1;
-  order: 1;
+  /* flex: 1; */
+  /* order: 1; */
   max-width: 300px;
+  display: none;
 }
 
 #subtitle {
-  flex: 1;
-  order: 0;
-  max-width: 300px;
+  /* flex: 1; */
+  /* order: 0; */
+  max-width: 600px;
+  text-align: center;
+  margin: auto;
+}
+
+#subtitle > * {
+  padding: 20px 0;
+}
+
+#subtitle h3 {
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+  font-size: 22px;
+  /* margin: 0 auto; */
 }
 
 #by-line {
+  max-width: 340px;
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-between
+}
+
+#by-line p, #by-line a {
+    font-size: 16px;
 }
 
 #by-line p {
@@ -317,18 +302,76 @@ h2 {
 
 #by-line a {
   color: #fff;
+  text-decoration: none;
 }
 
-#subtitle h3 {
-  font-family: Helvetica, sans-serif;
-  font-weight: lighter;
-  font-size: 22px;
-  margin: 0 auto;
+.below-section {
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+  padding: 40px 28px;;
 }
 
-/* Story area */
+#play-button {
+  font-family: 'Feijoa Medium', Times, serif;
+  font-size: 20px;
+  line-height: 1.7em;
+  color: #9b9b9b;
+  background-color: #313941;
+  border: 2px solid #9b9b9b;
+  /* max-width: 230px; */
+  padding: 18px 100px;
+  text-align: center;
+  transition: background-color .15s;
+}
+
+#play-button:hover, #play-button:active, #play-button:active {
+  color: #313941;
+  background-color: #9b9b9b;
+  cursor: pointer;
+}
+
+/**
+*  Story area
+**/
 #story {
   background: #313941;
+}
+
+#story-nav {
+  max-width: 1200px;
+  margin:auto;
+  padding: 30px 0 0 28px;
+}
+
+#story-nav a {
+  color: #9b9b9b;
+  text-decoration: none;
+}
+
+#story-nav a:hover {
+  color: white;
+  transition: color 0.15s;
+}
+
+#story h1, #story h2 {
+    text-align: center;
+    font-family: "Quattrocento", Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+#story h1 {
+    font-size: 30pt;
+    margin-bottom: 10px;
+}
+
+#story h2 {
+    font-size: 14pt;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: #BBB;
 }
 
 #story a {
@@ -336,6 +379,8 @@ h2 {
   font-weight: bold;
   font-size: 18pt;
   color: #9b9b9b;
+  transition: color 0.6s;
+  text-decoration: none;
 }
 
 #story a:hover {
@@ -343,16 +388,25 @@ h2 {
     transition: color 0.15s;
 }
 
-/* About Page */
+@media screen and (max-width: 800px) {
+    .container p {
+      width: 90%;
+    }
+    img {
+      max-width: 100%;
+    }
+    video {
+      max-width: 100%;
+    }
+  }
+
+/**
+* About Page
+**/
+
 .about-container {
   max-width: 1200px;
   margin: auto;
-
-  /* position: absolute;
-  width: 100%;
-  background-color: #313941;
-
-  display: none; */
 }
 
 .about-nav {

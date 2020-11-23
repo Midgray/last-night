@@ -17,6 +17,16 @@ VAR pos_a = "their"
 VAR pos_ac = "Their"
 
 VAR s = ""
+VAR es = ""
+
+VAR is_are = "are"
+VAR was_were = "were"
+VAR doesnt_dont = "don't"
+VAR has_have = "have"
+
+VAR hasnt_havent = "haven't"
+VAR theyre = "they're"
+VAR theyre_c = "They're"
 
 === function set_gender(x) ===
 { 
@@ -30,6 +40,14 @@ VAR s = ""
         ~ pos_a = "her"
         ~ pos_ac = "Her"
         ~ s = "s"
+        ~ es = "es"
+        ~ is_are = "is"
+        ~ was_were = "was"
+        ~ doesnt_dont = "doesn't"
+        ~ has_have = "has"
+        ~ hasnt_havent = "hasn't"
+        ~ theyre = "she's"
+        ~ theyre_c = "She's"
     - x == "boys":
         ~ sub_p = "he"
         ~ sub_pc = "He"
@@ -40,6 +58,14 @@ VAR s = ""
         ~ pos_a = "his"
         ~ pos_ac = "His"
         ~ s = "s"
+        ~ es = "es"
+        ~ is_are = "is"
+        ~ was_were = "was"
+        ~ doesnt_dont = "doesn't"
+        ~ has_have = "has"
+        ~ hasnt_havent = "hasn't"
+        ~ theyre = "he's"
+        ~ theyre_c = "He's"
     - else: 
         ~ sub_p = "they"
         ~ sub_pc = "They"
@@ -50,6 +76,14 @@ VAR s = ""
         ~ pos_a = "their"
         ~ pos_ac = "Their"
         ~ s = ""
+        ~ es = ""
+        ~ is_are = "are"
+        ~ was_were = "were"
+        ~ doesnt_dont = "don't"
+        ~ has_have = "have"
+        ~ hasnt_havent = "haven't"
+        ~ theyre = "they're"
+        ~ theyre_c = "They're"
 }
 
 ==== gender_pref ====
@@ -154,8 +188,10 @@ You tell them about meeting Jay and getting their number.
 
 = whenYouGetHomeYo
 When you get home you brew yourself a cup of herbal tea, pick up a book you haven't had time to crack open in weeks, and tuck yourself into bed. 
-You realize how little you thought about Ezra tonight. Maybe you're starting to move on. 
-    -> END
+You realize how little you thought about Ezra tonight. Maybe you're starting to move on.
+The end. # CLASS: end
+    + Restart # RESTART
+    -> END 
 
 ==== Chapter_2 ====
 You hug, and it is such a good hug. Ezra is stunning and you try not to gawk at how gorgeous they look tonight. You strategically place your hand self-consciously over the smattering of acne on your jawline.
