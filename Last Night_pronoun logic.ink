@@ -2,7 +2,7 @@
 // Converted from original inklewriter URL:
 // https://www.inklewriter.com/stories/22372
 # title: Last Night FINAL
-# author: Midgray
+# author: Kris Blackmore/Midgray
 // -----------------------------
 
 -> gender_pref

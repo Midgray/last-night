@@ -388,18 +388,6 @@ html {
     transition: color 0.15s;
 }
 
-@media screen and (max-width: 800px) {
-    .container p {
-      width: 90%;
-    }
-    img {
-      max-width: 100%;
-    }
-    video {
-      max-width: 100%;
-    }
-  }
-
 /**
 * About Page
 **/
@@ -411,7 +399,11 @@ html {
 
 .about-nav {
   text-align: right;
-  padding: 20px;
+  padding: 28px 20px 20px 20px;
+}
+
+.about-nav h2 {
+  margin: 0;
 }
 
 .about-nav a {
@@ -439,4 +431,27 @@ html {
 
 .about-content a {
   color: white;
+  text-decoration: none;
 }
+
+/**
+* Media Queries
+**/
+
+@media screen and (max-width: 800px) {
+    .container p {
+      width: 90%;
+    }
+    img {
+      max-width: 100%;
+    }
+    video {
+      max-width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 960px) {
+    .about-content {
+      display: block;
+    }
+  }
