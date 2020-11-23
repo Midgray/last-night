@@ -8,7 +8,7 @@
   src: local('Feijoa Medium'), url('fonts/Feijoa_Medium.woff2') format('woff2'), url('/fonts/Feijoa_Medium.woff') format('woff');
 }
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700');
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700'); */
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -144,8 +144,11 @@ h2 {
 }
 
 /**
-*  Title
+*  Title page
 **/
+#front-body {
+    background: #323132;
+}
 
 /* Navigation */
 
@@ -211,13 +214,14 @@ html {
 
 #title-illustration {
   /* display: flex; */
-  padding: 100px 40px;
+  padding: 20px 0;
   place-self: center stretch;
   margin: auto;
 }
 
-#title-illustration svg {
+#title-illustration video {
   width: 100%;
+  max-width: 650px;
 }
 
 /* Down arrow */
@@ -316,8 +320,8 @@ html {
   font-family: 'Feijoa Medium', Times, serif;
   font-size: 20px;
   line-height: 1.7em;
-  color: #9b9b9b;
-  background-color: #313941;
+  color: #323132;
+  background-color: #9b9b9b;
   border: 2px solid #9b9b9b;
   /* max-width: 230px; */
   padding: 18px 100px;
@@ -326,14 +330,15 @@ html {
 }
 
 #play-button:hover, #play-button:active, #play-button:active {
-  color: #313941;
-  background-color: #9b9b9b;
+  color: #9b9b9b;
+  background-color: #323132;
   cursor: pointer;
 }
 
 /**
 *  Story area
 **/
+
 #story {
   background: #313941;
 }
