@@ -50,7 +50,7 @@
         <div id="title-illustration">
           <!-- <video autoplay muted><source src="media/home.mp4" type="video/mp4"></video> -->
           <!-- <img id="title-gif" src="media/last-night.gif" alt="Last Night animated title graphic" onload="document.getElementById('title-gif').src='media/last-night.gif'"> -->
-          <img id="title-gif" src="media/last-night.gif" alt="Last Night animated title graphic">
+          <img id="title-gif" src="" alt="Last Night animated title graphic">
         </div>
         <div class="down-arrow">
           <div class="arrow bounce">
@@ -82,6 +82,10 @@
           <p id="note">Last Night is a work of interactive fiction. It takes approximately 90 minutes to discover each possible ending. It contains references to the consumption of drugs and alochol, and descriptions of sexual situations. It is best experienced in the Chrome browser.</p>
       </div>
   </div>
+
+<script>
+  document.getElementById('title-gif').src = "media/last-night.gif"+"?a="+Math.random();
+</script>
 
 </body>
 </html>
