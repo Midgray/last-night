@@ -1,8 +1,8 @@
 // ---- Last Night FINAL DRAFT ----
 // Converted from original inklewriter URL:
 // https://www.inklewriter.com/stories/22372
-# title: Last Night FINAL DRAFT
-# author: Kris Blackmore
+// # title: Last Night FINAL DRAFT
+// # author: Kris Blackmore
 // -----------------------------
 
 -> gender_pref
@@ -74,7 +74,6 @@ VAR theyre_c = "They're"
         ~ pos_p = "theirs"
         ~ pos_pc = "Theirs"
         ~ pos_a = "their"
-        ~ pos_ac = "Their"
         ~ s = ""
         ~ es = ""
         ~ is_are = "are"
@@ -87,12 +86,13 @@ VAR theyre_c = "They're"
 }
 
 ==== gender_pref ====
+# CLASS: gender-pref
 To start, are you generally attracted to…
-    + [Girls] You like girls. {set_gender("girls")} 
+    + [Girls] {set_gender("girls")} # CLEAR
         -> SMS_Message_x
-    + [Boys] You like boys. {set_gender("boys")}
+    + [Boys] {set_gender("boys")} # CLEAR
         -> SMS_Message_x
-    + [Both/Either] You like everyone. {set_gender("both")}
+    + [Both/Either] {set_gender("both")} # CLEAR
         -> SMS_Message_x
 
 -> SMS_Message_x
@@ -158,6 +158,8 @@ You give an awkward little wave and head home. You're not quite sure what to do 
 
 When you get home you brew yourself a cup of mint tea, pick up a book you haven't had time to crack open in weeks, and tuck yourself into bed. 
 You realize how little you thought about Sam tonight. Maybe you're starting to move on. 
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== sMSPmWereAtMyPla ====
@@ -296,7 +298,7 @@ You check the time on your phone. You missed the film. You could go with them. O
 Sam and Skyler look slightly taken aback.
 "Well, whatever." Sam says, and you realize {sub_p} {is_are} clearly angry with you. "I'm ready to go." {sub_pc} pause{s} as if waiting to give you a chance to change your mind. And you're tempted. You don't want to disappoint Sam, but you let {obj_p} walk out the door anyway.
 You return to the kitchen, scanning the crowd for Lei. You spot {obj_p} and try to catch {pos_a} eye as you walk toward {obj_p}. 
-Lei turns toward you. You both say say hi at the same time, and it's a little awkward. You ask how {sub_p} {has_have} been, and the conversation keeping going beyond that. {sub_pc} tell{s} you about going to community college, about missing their friends, about transferring here for {pos_a} junior year. {sub_pc} {has_have} started a new job and {has-have} an apartment off campus. 
+Lei turns toward you. You both say say hi at the same time, and it's a little awkward. You ask how {sub_p} {has_have} been, and the conversation keeping going beyond that. {sub_pc} tell{s} you about going to community college, about missing their friends, about transferring here for {pos_a} junior year. {sub_pc} {has_have} started a new job and {has_have} an apartment off campus. 
 You're relieved that the awkardness has passed and that {sub_pc} {is_are} being friendly. It's been awhile, but maybe you're still friends after all. Maybe you just needed some time apart to realize you still cared about each other. 
 Talking to Lei feels comfortable and comforting. {sub_pc} {is_are} a lot easier to talk to than a lot of the people you've met since you started here. You're not sure if you miss being with {obj_p}, but this feels a little like coming home. 
 You do notice that {sub_p} {hasnt_havent} said anything about seeing anyone else. 
@@ -419,6 +421,8 @@ You hold off on eating while you wait for a response. You finally cave a little 
 SMS Sam 4:48 p.m: Sorry! Slept late. # CLASS: sms 
 SMS 4:50 p.m: That's cool. Wanna grab dinner or something? # CLASS: sms
 SMS Sam 5:07 p.m: Can't, I'm pretty busy this week. I'll just see you when you get back! # CLASS: sms
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== youGentlyPushEzr ====
@@ -455,6 +459,8 @@ The table continues to trade stories about various uncomfortable encounters.
 You remember your recent night with Sam. It was awkward for sure, but you had never thought about {pos_a} behavior as being manipulative before. 
 "I had something like that happen to me earlier this summer," you tell the story of what happened between you and Sam. You're feeling unsure of yourself. Will anyone actually think it's a big deal?
 Nathan gives you a concerned look. "It really sucks that someone you thought was a friend would do that to you."
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== iDontNeedYouToBa ====

@@ -19,10 +19,10 @@
             }
 
             // author: Your Name
-            // else if( splitTag && splitTag.property == "author" ) {
-            //     var byline = document.querySelector('.byline');
-            //     byline.innerHTML = "by "+splitTag.val;
-            // }
+            else if( splitTag && splitTag.property == "author" ) {
+                var byline = document.querySelector('.byline');
+                byline.innerHTML = "by "+splitTag.val;
+            }
         }
     }
 
@@ -68,7 +68,7 @@
                     delay += 200.0;
                 }
 
-                // TO-DO: ADD FALLBACKS IF WEBM NOT SUPPORTED! More info: https://stackoverflow.com/questions/19251983/dynamically-create-a-html5-video-element-without-it-being-shown-in-the-page
+                // TO-DO: Add fallbacks for video file types. More info: https://stackoverflow.com/questions/19251983/dynamically-create-a-html5-video-element-without-it-being-shown-in-the-page
                 // VIDEO: src
                 if( splitTag && splitTag.property == "VIDEO" ) {
                     var videoElement = document.createElement('VIDEO');
