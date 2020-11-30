@@ -38,7 +38,7 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    /* font-weight: lighter; */
+    font-weight: lighter;
     background: #313941;
     color: #9b9b9b;
 }
@@ -541,5 +541,8 @@ html {
     #story h1 {
       font-size: 86px;
       line-height: 42px;
+    }
+    .sms {
+      font-weight: bold;
     }
   }
