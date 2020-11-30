@@ -272,6 +272,11 @@ html {
   max-width: 650px;
 }
 
+#title-illustration img {
+  width: 100%;
+  max-width: 650px;
+}
+
 /* Down arrow */
 
 .arrow a {
