@@ -99,8 +99,8 @@ To start, are you generally attracted to…
 
 
 ==== SMS_Message_x ====
-You have a message
-  + Open message
+You have a message.
+  + [Open message]
         -> Section_2_x 
 
 ==== Section_2_x ====
@@ -200,6 +200,9 @@ You continue to see Jay every single day until you leave for Washington D.C. Dur
 "I like a lot of communication. And that goes both ways, of course." Jay tells you one night over dinner. "Like I don't want to just make sure  I'm not assaulting you, I want to make sure you're actually having fun and feeling good." You can't think of a single time someone you were  hooking up with checked to see if you were actually enjoying yourself. Maybe with your high school ex?
 After dinner that evening you lay in bed talking and kissing. And then Jay asks if you're ready to take things further. You're suprised by the question, though by now you know you shouldn't be. 
 As things progress you realize this is the first time you've had sex sober since high school. You had become so afraid of this exact scenario but now you can't remember why. There's some fumbling around and awkward missed connections, but you don't mind. Suddenly it's all a part of the fun.
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 = jaySmilesIWouldL
@@ -500,6 +503,9 @@ You're a little drunk, but nothing a few glasses of water can't fix. You make yo
 # VIDEO: media/section_25.mp4
 The next morning you wake up and go for a run. Your feet pound rhythmically on the ground and lull you into a state of deep thought. You replay every single messy moment from last night. You snapping at Sam. It wasn't okay, but you're not sure that friendship or crush is much longer for this world anyway. And Lei. What were you thinking? Going home with {obj_p} could have been a huge mistake.
 You imagine what your life will be like here when you get back from Washington D.C. Maybe there will be an entirely new group of friends waiting to be made. People who are interested in going to film screenings with you every once in a while. It'd be fine if they liked to party some too, but maybe it's not all you ever do. 
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== alrightOneForThe ====
@@ -597,6 +603,9 @@ You want to talk to him about what happened with Lei. You want him to tell you i
 You decide you trust Nathan more than yourself. The next morning you wake up and spend an hour drafting a message to Lei. Once it's finished you make Nathan review the draft and hit send for you. 
 SMS 10:32 a.m: Hey. I've been doing a lot of reflecting this past month and I've come to terms with the fact that I don't feel good about what happened the last time we saw each other. I made a lot of assumptions about your interest in hooking up that night, and even if you actually think it was entirely consensual, I'm still sorry I didn't check in with you. It was messed up. I want to make it right. You could take time to think about it and we could talk about it in person when I get back from D.C. Or not if you don't want to see me. I hope you're having a good summer. # CLASS: sms 
 SMS Lei 10:36 a.m: Thank you. I would like to have that talk. I'll see you in September. # CLASS: sms
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== youCantRiskYourF ====
@@ -636,6 +645,9 @@ Skyler's eyes widen. An immediate look of hurt followed by understanding registe
 "Okay then..." Skyler turns around and walks back toward the house, glancing back as he disappears through the threshold. 
 You take out your phone.
 SMS 11:48 p.m: I'm so sorry. # CLASS: sms
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== youGoHomeSmokeWe ====
@@ -672,6 +684,9 @@ You fall asleep waiting for an answer, and when you wake up you still don't have
 Lei SMS 11:32 a.m: Just the truth. # CLASS: sms 
 SMS 11:32 a.m: Which is??? # CLASS: sms
 Lei SMS 11:38 a.m: That you assaulted me. # CLASS: sms 
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== sMSAmItWasGoodSe ====
@@ -698,6 +713,9 @@ You fight back tears. You don't want to make this moment about your pain.
 The conversation continues like that for awhile. Each person hoping to have the draft of the story that they had written about that night would be corroborated by the other. Eventually you reach a place of complete mutual understanding. You apologize, you ask if there's anything you can do to make it right. 
 "I've done a lot of work on healing and rebuilding my ability to trust this past year. At this point I think I just need to know you learned something from this conversation and that you're not going to do this to anyone else ever again."
 "Of course," you say. 
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== theresALongPause ====
@@ -780,6 +798,9 @@ Your eyes meet from a dozen feet away. You consider your options, and decide you
 "Please do not even think about trying to talk to me. I don't want anything to do with you." {pos_ac} tone is firm, but surprisingly calm.
 # VIDEO: media/section_40.mp4
 You try to think of a response, but you can't. You just watch as Lei turns and walks away from you.
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== youAskAbruptlyIf ====
@@ -798,6 +819,9 @@ You wonder what could have happened if you had just invited {obj_p} over to hang
 You were starting to see how all of these unspoken rules you had been following about sex and hookups were kind of ridiculous. 
 In a fit of inspiration you pick up your phone. You don't need to think about it any more. You know what you need to do. 
 SMS  2:07 a.m: I'm sorry. # CLASS: sms 
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== leiDoesntSayAnyt1 ====
@@ -825,6 +849,9 @@ You doze off holding your phone. Your sleep is fitful and full of vivid dreams. 
 SMS Sam 3:23 a.m. It's totally alright. # CLASS: sms
 SMS Sam 3:34 a.m.: BTW, you' ll never guess who I hooked up w tonight. # CLASS: sms
 You imagine all the people Sam could have hooked up with last night, each one hurting all the same. You've known for a long time Sam isn't actually interested in you and this is just more proof. You tell yourself that you need to be okay with this if you're going to stay friends. It's time to move on. 
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== ezraDoesntRespon ====
@@ -832,6 +859,9 @@ You imagine all the people Sam could have hooked up with last night, each one hu
 Sam doesn't respond. 
 Sam doesn't respond the next day either. 
 You see {obj_p} later that week, and are relieved {sub_p} seem{s} happy to see you. You had been worried you'd screwed everything up. Sam promises that you'll hang out soon. You still can't shake the feeling {theyre} eager to get away from you. Over the next several months you see less and less of each other. Sometimes college friendships are just like that.
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
 
 ==== itWasJustNiceFee ====
@@ -881,4 +911,7 @@ Lei pauses and then begins speaking slowly, carefully measuring each word.
 You stay a while longer. You catch up about your first two years of college, Lei at community college in your home town and you here. You realize it might be one of the first times you've ever hung out with {obj_p} in a non-romantic context. It's nicer than you imagined it could be.  
 On your way home, all you can think about texting Sam. But what should you say? You carefully weigh all of your options. You could apologize for how you acted. You probably should. But something about your conversation with Lei is sticking with you. There's more to talk about than just last night. But should you really bring it up? Maybe it will just make things worse between you. Sam has been in your life since the first week of freshman year. {sub_p} {was_were} your first home away from home. Can you imagine spending the rest of college— or your life— without {obj_p}?
 Maybe you can. 
+    
+The end # CLASS: end
+    + Restart # RESTART
     -> END
