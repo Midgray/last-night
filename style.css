@@ -583,13 +583,13 @@ html {
     }
 
     /* Get down arrow to clear mobile browser bottom bar: https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/ */
-    #front-body {
+    /* This doesn't work yet! */
+    /* #front-body {
       min-height: 100vh;
-      /* mobile viewport bug fix */
       min-height: -webkit-fill-available;
     }
     html {
       height: -webkit-fill-available;
-    }
+    } */
 
   }
