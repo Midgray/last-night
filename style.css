@@ -602,7 +602,12 @@ html {
     }
 
     /* Push title gif up to make room for down-arrow */
-    /* #title-gif {
-      margin-bottom: 5vh;
-    } */
+    /* #title-gif { */
+      /* margin-bottom: 5vh; */
+
+      #title-illustration {
+        margin-top: 40%;
+      }
+
+    }
   }
