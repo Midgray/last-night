@@ -39,7 +39,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
-    background: #313941;
+    background-color: #2B2B2B;
     color: #9b9b9b;
 }
 
@@ -403,7 +403,7 @@ html {
 **/
 
 #story {
-  background: #313941;
+  background-color: #2B2B2B;
 }
 
 #story-nav {
