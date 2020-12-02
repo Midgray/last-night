@@ -108,11 +108,11 @@ You have a message.
 # VIDEO: media/section_2.mp4
 
 Skyler 7:01p.m: I know we were talking about doing that film screening tonight, but my friend Jordan (have you met???) is having a party 🍺 Any interest? # CLASS: sms
-Sam 7:02 p.m: That could be fun 🎉 It's time to celebrate 🍾 # CLASS: sms
+Sam 7:02 p.m: That could be fun 🎉 It's time to celebrate the end of this dumb term 🍾 # CLASS: sms
 You sigh. You had suggested the screening as something interesting you could all do together that wouldn't be quite as exhausting as staying out until 4 a.m. getting black-out drunk.
-But you're leaving in a few days. This could be your last chance to have any fun all summer. You'll be going to Washington D.C. to intern for an environmental nonprofit. It will be good for your career, but it probably won't be the time of your life— a feeling that was reinforced when you prematurely changed the location on your dating apps to D.C. You tried to imagine yourself hooking up with some clean-cut Capitol Hill intern and decided it was better to just accept now that it would likely be a dry summer.
+But you're leaving in a few days. This could be your last chance to have any fun all summer. You'll be going to Washington D.C. to intern for an environmental nonprofit. It will be good for your career, for sure. But you won't have any friends there so it probably won't be the time of your life— a feeling that was reinforced when you prematurely changed the location on your dating apps to D.C. You tried to imagine yourself hooking up with some clean-cut Capitol Hill intern and decided it was better to just accept now that it would likely be a dry summer.
 You don't want to ruin everyone else's fun by forcing them to do what you want to do if they're not excited about it. But you can't imagine going to watch some documentary alone while everyone parties without you. 
-You think about what it would be like to sit by yourself in some hard plastic chair in a crowded overly air-conditioned bookstore, clutching a cup of cheap wine, waiting for the lights to dim. You'll scroll through your friend's posts and pretend you're fine being alone, but you won't be. You'll imagine Sam's mouth on some stranger's mouth. Someone who is funnier than you and more attractive. Your heart gives a little tug, and you brush it away. 
+You think about what it would be like to sit by yourself in a hard plastic chair in a sparsely populated and overly air-conditioned bookstore, clutching a cup of cheap wine, waiting for the lights to dim. You'll scroll through your friend's posts and pretend you're fine being alone, but you won't be. You'll imagine Sam at the party. Mouth on some stranger's mouth. Someone who is funnier than you and more attractive. Your heart gives a little tug, and you brush it away. 
   + 7:18 p.m: Sure! Sounds fun! # CLASS: sms
         -> Section_8_x 
   + 7:18 p.m: Actually, I was really looking forward to the film thing. # CLASS: sms
@@ -124,13 +124,13 @@ Screw it. This isn't the first time Skyler and Sam have bailed on your plans. Yo
 
 ==== Chapter_12 ====
 You keep talking until the lights dim a bit and a hush falls over the crowd. You try to pay attention to the movie— some documentary about the environmental impact of dams— but all you can think about is the cute stranger standing next to you that you were just having fun conversation with. Once the lights are turned back up you are pleased to see the stranger seems as eager to resume your conversation as you are. You discover that {pos_a} name is Jay. {sub_pc} {is_are} studying communications and {sub_p} just finished {pos_a} junior year. {sub_pc} wanted to do creative writing, but {pos_a} parents made {obj_p} pick something that would give {obj_p} more job prospects. 
-Eventually, you notice you are one of just a few people left in the store and that the staff are trying to will you out the door with exasperated glances. 
+Eventually, you notice you are one of just a few people left in the store. The staff are trying to will you out the door with exasperated glances. 
     # VIDEO: media/section_7.mp4
 
-You don't want this to end, but it's after eleven and everything in this town closes early. Your options are limited. Should you invite Jay back to your place? You're terrified {sub_p} will say no and you will never see {obj_p} again. Maybe it's safer to just ask for {pos_a} number instead. 
-  + "Do you want to come back to my place?"
+You don't want this to end, but it's after eleven and everything in this town closes early. Your options are limited. Should you invite Jay back to your place? You're terrified {sub_p} will say no and you will never see {obj_p} again. Maybe it's safer to just ask if you can text {pos_a} instead. 
+  + ["Do you want to come back to my place?"]
         -> doYouWantToConti 
-  + "Can I get your number?
+  + ["Can I get your number?"]
         -> youAskForJaysNum 
 
 = sMSEzraPmOkayMay
@@ -142,7 +142,7 @@ You spy a table at the back of the room that hosts a vegetable tray, a few bottl
 "I would avoid that one if I were you." You look over at the person—the very cute person— standing next to you, holding a glass of something white. 
 "Oh?" You ask, imploring {obj_p} for more information while also trying not to say too much because you don't actually know how to talk to strangers.
 "I'm not a wine snob or anything, but that one tastes like perfume. The white is totally fine though."
-You smile. "Well thanks for the advice. Maybe you could make a side hustle out of it—reviewing the free wine at gallery openings and poetry readings on social media."
+You smile. "Well thanks for the advice. Maybe you could make a side hustle out of it—reviewing the free wine at gallery openings and film screenings on social media."
 {sub_pc} laugh{s}. "I love it! I can finally fulfill my lifelong dream of being an influencer."  
     -> Chapter_12
 
@@ -151,21 +151,21 @@ You ask for Jay's number, which {sub_p} happily enter{s} into your phone. A good
 You give an awkward little wave and head home. You're not quite sure what to do with yourself now, so you think about texting Sam and Skyler. 
   + 11:16 p.m: Are you still out? # CLASS: sms
         -> sMSPmWereAtMyPla 
-  + Go home
+  + Just go home.
         -> whenYouGetHomeYo 
 
 ==== whenYouGetHomeYo ====
 
 # VIDEO: media/section_5.mp4
 
-When you get home you brew yourself a cup of mint tea, pick up a book you haven't had time to crack open in weeks, and tuck yourself into bed. 
-You realize how little you thought about Sam tonight. Maybe you're starting to move on. 
+When you walk in the door you brew yourself some mint tea, pick up a book you haven't had time to crack open in weeks, and tuck yourself into bed. 
+As you settle between the sheets you realize how little you've thought about Sam tonight.
 The end # CLASS: end
     + Restart # RESTART
     -> END
 
 ==== sMSPmWereAtMyPla ====
-11:17 p.m: We're at my place. Come over. # CLASS: sms 
+Sam 11:17 p.m: We're at my place. Come over. # CLASS: sms 
 Your heart leaps at the invitation. It's a 15 minute walk to Sam's from where you are now. As you walk you notice you're a little tipsy from all the wine you nervously sipped on. 
 Sam opens the door and greets you with a warm hug. {sub_pc} look{s} effortlessly gorgeous as always. Your hand instinctively rushes to cover a constellation of acne on your jawline.  
 "How was your movie thingy?" Sam asks, guiding you to the sectional where Skyler is already seated.  
@@ -182,7 +182,7 @@ You tell them about meeting Jay.
 ==== Chapter_13 ====
 As you walk back to your apartment you can't believe how lucky you are. Not only was the film screening not awkward, but it seems like you might actually hook up with this hot senior tonight. You realize you haven't thought about Sam for hours. 
 "I want to be up front about something." Jay says cheerily. "I don't really do hookups, or one night stands, or whatever you want to call them."
-"Oh," you say. You're not surprised by the information, so much Jay's directness. "That's totally cool. Are you like, asexual?" You mean it sincerely, but you realize that it might come off as insulting. Shit. You're trying to think of ways to dial back your comment, but Jay just laughs. 
+"Oh," you say. You're not surprised by the information, so much Jay's directness. "That's totally cool. Are you like, asexual?" You're trying to sound accepting and progressiv, but you realize that it probably just comes off as insulting for one reason or another. Shit. You're scrambling to think of ways to dial back your comment, but Jay just laughs. 
 "No. Just old fashioned. I like to get to know people before having sex. I know it's super weird."
 "I don't think it sounds weird at all," you say. And you mean it. As fun as it might have been to hook up with Jay tonight, you realize sex being taken off the table has taken a weight out of your hands that you had no idea you were carrying.
 "Okay. Because if you're not into that I'm fine to just go home." You assure {obj_p} you are. 
@@ -197,7 +197,7 @@ The next day you share your first kiss while picnicking at a swimming hole an ho
 Jay smiles and leans over, your mouths meet softly. 
 It's a perfect day. You lay on beach towels enjoying each other's lips and taking intermittent dips into the cool water until the sandy bank is fully enveloped in shadow.
 You continue to see Jay every single day until you leave for Washington D.C. During this time you learn that {sub_p} {was_were} assaulted the first month of {pos_a} freshman year. 
-"I like a lot of communication. And that goes both ways, of course." Jay tells you one night over dinner. "Like I don't want to just make sure  I'm not assaulting you, I want to make sure you're actually having fun and feeling good." You can't think of a single time someone you were  hooking up with checked to see if you were actually enjoying yourself. Maybe with your high school ex?
+"I like a lot of communication. And that goes both ways, of course." Jay tells you one night over a dinner of pasta with a jar of marinara. "Like I don't want to just make sure  I'm not being sketchy, I want to make sure you're actually having fun." You can't think of a single time someone you were  hooking up with checked to see if you were actually enjoying yourself. Maybe the person you dated in high school?
 After dinner that evening you lay in bed talking and kissing. And then Jay asks if you're ready to take things further. You're surprised by the question, though by now you know you shouldn't be. 
 As things progress you realize this is the first time you've had sex sober since high school. You had become so afraid of this exact scenario but now you can't remember why. There's some fumbling around and awkward missed connections, but you don't mind. Suddenly it's all a part of the fun.
     
@@ -218,7 +218,7 @@ You hug, and it is such a good hug. Sam is stunning, and you try not to gawk at 
 "Look what I have!" Sam sings, pulling a small bottle of vodka from the depths of a tote bag. "Ready to party?"
 Your stomach churns remembering the last time you drank vodka. It was a few weeks after spring break. You blacked out, went swimming with your pants on, hit on all three of your roommates, and then spent the rest of the  night on the bathroom floor throwing your guts up. It's still too soon.
 But Sam is standing there looking so carefree, so unencumbered by {pos_a} own internality. You just want {obj_p} to like you, and you doubt {sub_p} would ever be interested in someone who isn't as fun as {sub_p} {is_are}. 
-  + Take a shot
+  + [Take a shot]
         -> youHoldYourBreat 
   + "I might take it slow tonight"
         -> ezraShrugsOkayWh 
@@ -276,7 +276,7 @@ Shit. Shit. Shit. It is Lei. But you already knew that. {sub_pc} {hasnt_havent} 
 The last time you saw {obj_p}? About two years ago. Right after you broke {pos_a} heart. 
 Of course, you continued to see {obj_p} on social media over the next few months and checked in every so often. But you could never shake the feeling that there was something caustic simmering between the two of you. Guilt was always stomping around in your chest, trying to kick something up and make trouble. 
 So one day you quietly muted {obj_p} on every platform to try to make those bad feelings go away. You're surprised when you realize that you had practically forgotten {sub_p} existed for the past year. 
-  + Say hi
+  + [Say hi]
         -> Section_14_x 
   + Get out of there
         -> youSpinAroundAnd 
@@ -376,7 +376,7 @@ At Sam's you all pile onto a wide sectional and take turns pouring yourself red 
     -> skylerAndEzraSta
 
 = skylerAndEzraSta
-Skyler and Sam start recounting their night at the party. Apparently, they had run into Alex, Skyler's roommate from freshman year. You'd always liked hanging out with Alex, but the two had a falling a little after spring break that year. Of course you were much better friend's with Skyler and you had to choose sides. And now here you are. 
+Skyler and Sam start recounting their night at the party. Apparently, they had run into Alex, Skyler's roommate from freshman year. You'd always liked hanging out with Alex, but the two had a falling out after spring break that year. Of course, you were much better friends with Skyler and you had to choose sides. And now here you are. 
 "You should have seen him. He was all strung out looking and gross." Skyler says, looking at you and laughing. You shift in your seat uncomfortably and take a long sip of wine so you don't have to say anything for a moment. 
 "What a weird loser," says Sam who gets up and walks into the kitchen, returning with a once-frozen, now cooked pizza.
 "Have you even seen the ridiculous songs he's always posting? They're so bad!" Sam scrolls through {pos_a} phone and pulls up a video. Alex is sitting in front of the camera with a guitar— looking pretty good, you think. You can barely hear the song over Sam and Skyler's howling. You're not sure why this is supposed to be so funny, but you laugh along anyway.
@@ -390,7 +390,7 @@ Skyler stands up suddenly. "Well I'm pretty beat, I'm going to go! Have fun you 
 Sam snuggles into you a little bit. "I'm going to miss you when you leave." 
 "I'm going to miss you too," you respond. But as you say the words a little fantasy is forming in your mind. One where you return from D.C. and there's an entirely new group of friends waiting to be made. People who are interested in going to a film screening with you every once in a while. Sure, they like to party too, but maybe it's not all you ever do. 
 Sam sits up. Suddenly {pos_a} mouth is on your mouth. 
-  + Kiss Sam back
+  + [Kiss Sam back]
         -> youreMakingOutTh 
   + On second thought...
         -> youGentlyPushEzr 
@@ -398,7 +398,7 @@ Sam sits up. Suddenly {pos_a} mouth is on your mouth.
 ==== youreMakingOutTh ====
 You're making out. Things escalate quickly, and Sam pulls you into {pos_a} bedroom. Finally, you think. 
 Sam starts grabbing at the buttons of your shirt. You do the best you can to help remove it.
-"Are you into this?" Sam purrs as {sub_p} start{s} fumbling with the button on your shorts.
+"Are you into this?" Sam purrs as {sub_p} start{s} fumbling with the zipper on your shorts.
   + On second thought...
         -> youGentlyPushEzr 
   + "I am."
@@ -462,7 +462,7 @@ One Saturday night after singing yourself hoarse at karaoke you pile into a late
 "He threw me out of his room with no shoes. I remember walking back to my room barefoot. Luckily it wasn't like snowing or anything. And then the worst part is that I never got my shoes back! When I saw him a few weeks later he denied ever having them!" 
 "Wowwww," Nathan trills. "Rapey and a shoe thief. What a total package."
 The table continues to trade stories about various uncomfortable encounters.
-"I had this one girl totally try to guilt trip me for not wanting to sleep with her. She was like on top of me and I had to push her off. And then she was all 'well why did you invite me to your room if you don't think I'm attractive?" Casey laughs. "So manipulative. Like, who does that?"
+"I had this one girl totally try to guilt trip me for not wanting to sleep with her. She was like on top of me and I had to push her off. And then she was all 'well why did you invite me to your room if you don't think I'm attractive?' Casey laughs. "So manipulative. Like, who does that?"
 You remember your recent night with Sam. It was awkward for sure, but you had never thought about {pos_a} behavior as being manipulative before. 
 "I had something like that happen to me earlier this summer," you tell the story of what happened between you and Sam. You're feeling unsure of yourself. Will anyone actually think it's a big deal?
 Nathan gives you a concerned look. "It really sucks that someone you thought was a friend would do that to you."
@@ -482,15 +482,15 @@ You feel a hand on your shoulder. "Is everything alright?" Lei asks. You enjoy t
 ==== youGoLookForEzra ====
 You go look for Sam and Skyler, but they appear to have left the party.
 You send a text but it remains unread. 
-Since you have no idea where they went you return to the kitchen.
+Since you have no idea where they went you return to the kitchen to find Lei.
     -> youllFindEzraLat
 
 ==== youllFindEzraLat ====
-You'll find Sam later. It will all blow over. 
+You'll catch up with Sam later. It will all blow over. 
 "Some of us were thinking about heading back to party at my place." Lei gestures vaguely to {pos_a} friends standing around a kitchen island.
 "Oh, really?"
 "It will be more low-key. You should come." Lei says this, leaning in close. You can feel the warmth of {pos_a} breath on your earlobe.
-You're not sure you should ditch Sam, even if {sub_p} {is_are} upset with you. But things with Lei are going so well, and this is why you even bothered to come to this party in the first place. If you go with {obj_p} you know there's a really good chance you're hooking up. 
+You're not sure you should ditch Sam, even if {sub_p} {is_are} upset with you. But things with Lei are going so well, and this is why you even bothered to come to this party in the first place. If you go with {obj_p} you know there's a good chance you're hooking up tonight. 
   + "Sure, let's get out of here."
         -> alrightOneForThe 
   + "I think I'm going to hang out here"
@@ -521,10 +521,10 @@ As you walk someone plays music from a phone. Small bottles are passed around ou
 Lei's apartment is one of those 1960's three-bedrooms on the edge of campus that have paper-thin walls and ugly brown carpeting. You quickly surmise that two of the strangers in the group are Lei's new housemates. 
 You all pile into the living room and Lei pulls you over to share the couch. Liquor bottles and cheap beer are placed onto a flat-pack coffee table and everyone is filling up cups. A joint is passed around. 
 One of the roommates, Daniel, offers to do tarot readings. When your turn comes up you oblige and draw a card.
-"Ohhhhh, the reversed Lovers!" Daniel declares, clucking his tongue. "Someone has been up to no good. You've been cheating and cutting corners and untrue to you and everyone around you. This card is a bitch slap you need to tell you it's time to get right with your Higher Self."
+"Ohhhhh, the reversed Lovers!" Daniel declares, clucking his tongue. "Someone has been up to no good. You've been cheating and cutting corners and untrue to you and everyone around you. This card is screaming that it's time to get right with your Higher Self."
 You force a laugh, trying to give no indication that this analysis truly bugs you. But why does it bother you? It's all just for fun. 
 "Oh yeah, I've been so bad!" You say as you theatrically down a shot. "Somebody really ought to make me behave." 
-As soon as you take the shot you realize that you probably shouldn't have. The edges of the room are growing thick with fog. 
+As soon as you take the shot you realize that you probably shouldn't have. The edges of the room start to recede into thick fog. 
 The two people sharing an armchair on the opposite side of the room have started making out. Lei throws an empty beer can in their direction. "Get a room, you two!"
 "Fine, we'll take yours." 
 "On second thought, I'm out of here." Lei grabs your hand and leads you down a hall. You both falter a bit in the dark hallway. You hear a shout from the living room. 
@@ -579,7 +579,7 @@ One Saturday night after singing yourself hoarse at karaoke you pile into a late
 "What! That is PERFECT!" Casey says from across the table. 
 "He threw me out of his room with no shoes. I remember walking back to my room barefoot. Luckily it wasn't like snowing or anything. And then the worst part is that I never got my shoes back! When I saw him a few weeks later he denied ever having them!" 
 "Wow," Nathan trills. "Rapey and a thief. What a total package."
-The table continues to trade stories about uncomfortable encounters."I had this one girl totally try to guilt trip me for not wanting to sleep  with her. She was like on top of me and I had to push her off. And then she was all 'well why did you invite me to your room if you don't think  I'm attractive?" Casey laughs. "So manipulative. Like, who does that?"
+The table continues to trade stories about uncomfortable encounters."I had this one girl totally try to guilt trip me for not wanting to sleep  with her. She was like on top of me and I had to push her off. And then she was all 'well why did you invite me to your room if you don't think I'm attractive?' Casey laughs. "So manipulative. Like, who does that?"
  "Why do people think they're entitled to sex?" Nathan asks, though it seems like he's already sure of the answer. 
 There are nods of agreement around the table. You make a point of nodding too.
 "I feel like I expected everyone to be all consent-this and consent-that in college," Finley says. "But basically no one ever bothers to bring it up. How can you be so sure sex is consensual unless you talk about it?"
@@ -828,7 +828,7 @@ The end # CLASS: end
 Lei doesn't say anything for a minute. 
 "Look, I don't know for sure. I'm definitely not eager to start anything intimate again right now if that's what you mean."
 A little "oh" of surprise escapes from somewhere deep in your chest. 
-"You were right when you broke up with me before graduation. We're young, we shouldn't be so codependent on each other"
+"You were right when you broke up with me before graduation. We're young. We shouldn't be so codependent on each other"
 "Right. Yeah. It was definitely a good thing."
 "I know you know that. But if I lead you to expect something tonight I'm really sorry"
   + "You have nothing to be sorry for."
@@ -865,7 +865,7 @@ The end # CLASS: end
     -> END
 
 ==== itWasJustNiceFee ====
-"It was just nice feeling like I had an actual friend here. I know I just moved here, but I don't really know anyone and it's kind of lonely."
+"It was just nice feeling like I had an actual friend here. I know it seems like I have all these friends already, but I don't really know any of these people yet. It's kind of lonely."
     -> Chapter_11.itsBeenNiceSeein
 
 ==== Chapter_11 ====
@@ -878,12 +878,11 @@ Lei leans over and gives you a hug.
 
 = maybeWeCanHangOu
 "Maybe we can hang out again for you head out of town? What about brunch tomorrow? I'm going to need something greasy for the inevitable hangover."
-"Yeah. That sounds great." You're relieved Lei wants to see you ever again. 
-"I should head home now though. I'll text you in the morning?"
+"Yeah. That sounds great." You're relieved Lei wants to see you ever again. "I should head home now though. I'll text you in the morning?"
 "Okay. But it's so late." Lei pauses and seems unsure of what they're going to say next.
 "If you want to stay over you can. But I mean totally platonic! You have to keep your hands to yourself."
 You won't turn down an offer to save yourself the long walk home. You remain on top of the comforter and pull a blanket to your chin. You fall asleep immediately.
-Lei is already awake when your eyes open. You grab your phone to check the time, but it's dead."
+Lei is already awake when your eyes open. You grab your phone to check the time, but it's dead.
 "What time is it?" 
 "Like 11. I'm starving. Let's go eat."
 # VIDEO: media/section_46.mp4
