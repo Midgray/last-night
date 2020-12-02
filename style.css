@@ -270,7 +270,6 @@ html {
   padding: 20px 0;
   place-self: center stretch;
   margin: auto;
-  margin-top: 40%;
 }
 
 #title-illustration video {
@@ -605,10 +604,6 @@ html {
     /* Push title gif up to make room for down-arrow */
     /* #title-gif { */
       /* margin-bottom: 5vh; */
-
-      #title-illustration {
-        margin-top: 40%;
-      }
 
     }
   }
