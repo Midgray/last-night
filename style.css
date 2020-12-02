@@ -270,6 +270,7 @@ html {
   padding: 20px 0;
   place-self: center stretch;
   margin: auto;
+  margin-top: 40%;
 }
 
 #title-illustration video {
