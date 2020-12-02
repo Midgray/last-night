@@ -505,6 +505,27 @@ html {
   text-decoration: none;
 }
 
+#about-resources  p {
+  margin-top: 18px;
+  margin-bottom: 18px;
+  line-height: 1.3em;
+}
+
+#about-resources  p:first-of-type {
+  margin-top: 20px;
+  /* margin-bottom: 20px; */
+}
+
+/**
+* Exhibit Page
+*/
+
+#exhibit-text {
+  text-align: center; 
+  margin: auto; 
+  max-width: 800px;
+}
+
 /**
 * Media Queries
 **/
@@ -521,11 +542,21 @@ html {
     }
   }
 
+/* Mobile */
+
   @media screen and (max-width: 960px) {
     .about-content {
       display: block;
     }
+    .about-content :first-child {
+      padding-bottom: 0;
+    }
+    .about-content :last-child {
+      padding-top: 0;
+    }
   }
+
+/* Small Screen */
 
   @media screen and (max-width: 460px) {
     p {
