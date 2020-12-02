@@ -591,5 +591,8 @@ html {
     html {
       height: -webkit-fill-available;
     } */
-
+    .arrow {
+      margin: -18% 0;
+    }
+    
   }
