@@ -135,10 +135,15 @@ p.choice {
 */
 .end {
     text-align: center;
-    font-weight: bold;
-    color: white;
-    padding-top: 20px;
+    /* font-weight: bold; */
+    /* color: white; */
+    /* padding-top: 20px; */
     /* padding-bottom: 20px; */
+
+    font-family: 'PalmerLakePrint-Regular', sans-serif;
+    font-size: 64px;
+    /* letter-spacing: 2px; */
+    line-height: 32px;
 }
 
 .gender-pref {
