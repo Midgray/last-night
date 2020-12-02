@@ -258,9 +258,9 @@ You are informed that the keg is in the kitchen. Sam grabs the cup from Skyler a
 ==== seriouslyAreYouL ====
 "Seriously? Are you like sick or something?" Skyler asks. 
 "No." You can hear the frustration in your tone. "I just don't necessarily feel like drinking a ton tonight."
-"Well what's the point in coming to a party then?" He asks. "Let's get drunk and hook up with some hotties!"
+"Well what's the point in coming to a party then?" They ask. "Let's get drunk and hook up with some hotties!"
 What you want to say is because you bailed on our plans and forced me to choose between spending the night alone or hanging out with you. But you think better of it. 
-"Fine." You say, snatching the cup from Skyler, who responds by clapping with glee. You know he's right. As much as you're not that into drinking tonight, not drinking at a party like this is definitely worse. 
+"Fine." You say, snatching the cup from Skyler, who responds by clapping with glee. You know they're right. As much as you're not that into drinking tonight, not drinking at a party like this is definitely worse. 
     -> Section_11_x
 
 ==== Section_11_x ====
@@ -287,7 +287,7 @@ You spin around and head back into the living room where you find Skyler and Sam
 "What? Who?" Skyler asks hungrily.
 "It's Lei. High school Lei."
 "That's so random," Sam says. "If my ex showed up at a party I was at I would be so weirded out."
-"Yeah, but you're weirded out by everything." Skyler says, rolling his eyes. Sam ignores the remark and take a long drink. 
+"Yeah, but you're weirded out by everything." Skyler says, rolling their eyes. Sam ignores the remark and take a long drink. 
 "Should I go say hi? It'll only get more awkward the longer we ignore each other. 
 "You could." Sam says. "Or we could get out of here. This party is kind of boring." 
  "Yeah," Skyler says. "There's no one worth hooking up with here."
@@ -335,7 +335,7 @@ You leave Lei behind in the kitchen and wander around trying to find anyone you 
 "That's wild." Skyler says. "How do you feel about it?"
 "Fine, honestly. We had a nice conversation and it went about as well as I could have hoped for." 
 "That's so random," Sam says. "If my ex were showed up at a party I was at I would be so weirded out."
-"Yeah, but you're weirded out by everything." Skyler says, rolling his eyes. 
+"Yeah, but you're weirded out by everything." Skyler says, rolling their eyes. 
     -> youTellLeiYoullS.LetsGetOutOfHere
 
 ==== theCupsOnTheTabl ====
@@ -376,11 +376,11 @@ At Sam's you all pile onto a wide sectional and take turns pouring yourself red 
     -> skylerAndEzraSta
 
 = skylerAndEzraSta
-Skyler and Sam start recounting their night at the party. Apparently, they had run into Alex, Skyler's roommate from freshman year. You'd always liked hanging out with Alex, but the two had a falling out with Skyler a little after spring break that year. Of course you were much better friend's with Skyler and you had to choose sides. And now here you are. 
+Skyler and Sam start recounting their night at the party. Apparently, they had run into Alex, Skyler's roommate from freshman year. You'd always liked hanging out with Alex, but the two had a falling a little after spring break that year. Of course you were much better friend's with Skyler and you had to choose sides. And now here you are. 
 "You should have seen him. He was all strung out looking and gross." Skyler says, looking at you and laughing. You shift in your seat uncomfortably and take a long sip of wine so you don't have to say anything for a moment. 
 "What a weird loser," says Sam who gets up and walks into the kitchen, returning with a once-frozen, now cooked pizza.
-"Have you even seen the ridiculous songs he's always posting? They're so bad!" Sam scrolls through {pos_a} phone and pulls up a video. Alex is sitting in front of the camera with a guitar— looking pretty good, you think. You can barely hear the song over Sam and Skyler's howling. You're not sure why this is supposed to be so funny, but you laugh along anyway. It's easy enough to fake a laugh when you're this drunk. 
-When the song is over Sam wipes tears from {pos_a} cheek{s} and falls back onto the sofa, but also leans into you just a little bit. You glance at Skyler for confirmation that something is actually happening between you and Sam right now, but he either doesn't notice or doesn't care. You take this as a sign and put your arm around Sam, who doesn't protest or change positions. 
+"Have you even seen the ridiculous songs he's always posting? They're so bad!" Sam scrolls through {pos_a} phone and pulls up a video. Alex is sitting in front of the camera with a guitar— looking pretty good, you think. You can barely hear the song over Sam and Skyler's howling. You're not sure why this is supposed to be so funny, but you laugh along anyway.
+When the song is over Sam wipes tears from {pos_a} cheek{s} and falls back onto the sofa, but also leans into you just a little bit. You glance at Skyler for confirmation that something is actually happening between you and Sam right now, but they either don't notice or don't care. You take this as a sign and put your arm around Sam, who doesn't protest or change positions. 
 "I'm thinking about trying intermittent fasting." Sam declares as {sub_p} polish{es} off a final slice of pizza. You resist the urge to roll your eyes. 
 "I've heard that's supposed to be really healthy for you," Skyler says. "I know a guy who got so buff on it last year."
 "What do you think? Should I try it?" Sam says, looking up at you through long eyelashes. It seems like a trick question. 
@@ -613,7 +613,7 @@ You can't risk your friendship with Nathan. You're better off trying to forget a
 The rest of the summer passes you by quickly. You say your goodbyes and find yourself back home starting the fall term. You've tried to put the stuff with Lei from earlier than summer out of your mind, but you can't help but always be looking for {obj_p} on campus. 
 A week after classes start you're walking to a party with Sam and Skyler. It's at the same house you had been to earlier in the summer.
 "I hope Lei isn't there," you say mostly for your own benefit. But you catch a look traded between Sam and Skyler. 
-"What? Why do you look like that?" You ask. 
+"Wait. What? What's up?" You ask. 
 "Well..." Skyler says tepidly. "One of Lei's roommates knows my friend Cameron. Apparently Lei moved. {sub_pc} never started the term."
 "What? Why?" You've stopped walking. You understand this is a big deal but you're still working on fully understanding the ramifications of Skyler's words. 
 Sam shoots Skyler a look. "We don't know. Cameron was vague about the whole thing. Maybe some family thing."
@@ -634,15 +634,15 @@ Suddenly, you feel something cold on your back. You whip around, body flailing a
 "WHAT THE HELL?" You yell blindly into the room.
 You're trying to make sense of it, and then a spark of recognition. You know this person. Her face is familiar. Your brain is working furiously to solder the connections. She yells back, "It's time for you to leave."
 And then you know. The person standing in front of you is one of Lei's friend's from the night you went home together. 
-Skyler is by your side now and he's yelling too. But you don't bother to defend yourself. Those cracks in your consciousness have been pulled wide open and now you can clearly see the message on the other side. That night with Lei wasn't okay. 
-You walk wordlessly out the door, avoiding all of the eyes on you. 
+Skyler is by your side now and they're yelling too. But you don't bother to defend yourself. Those cracks in your consciousness have been pulled wide open and now you can finally see what's on the other side. That night with Lei wasn't okay. 
+You walk wordlessly out the door, avoiding any contact with the eyes on you.
 "Hey, wait!" You hear Skyler yell as you round the street corner. You keep walking. Footsteps approach quickly behind you. 
 "I saw the whole thing. That was so messed up."
 "No. It's fine. I deserve it."
-"Are you serious? That's ridiculous." He says. 
+"Are you serious? That's ridiculous," they say. 
 "You don't know what you're talking about. Just leave me alone."
-Skyler's eyes widen. An immediate look of hurt followed by understanding registers across his face. 
-"Okay then..." Skyler turns around and walks back toward the house, glancing back as he disappears through the threshold. 
+Skyler's eyes widen. An immediate look of hurt followed by understanding registers across their face. 
+"Okay then..." Skyler turns around and walks back toward the house, glancing back as they disappear through the threshold. 
 You take out your phone.
 SMS 11:48 p.m: I'm so sorry. # CLASS: sms
     
