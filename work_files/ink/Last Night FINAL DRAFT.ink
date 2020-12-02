@@ -107,15 +107,15 @@ You have a message.
 
 # VIDEO: media/section_2.mp4
 
-SMS Skyler 7:01p.m: I know we were talking about doing that film screening tonight, but my friend Jordan (have you met???) is having a party 🍺 Any interest? # CLASS: sms
-SMS Sam 7:02 p.m: That could be fun 🎉 It's time to celebrate 🍾 # CLASS: sms
+Skyler 7:01p.m: I know we were talking about doing that film screening tonight, but my friend Jordan (have you met???) is having a party 🍺 Any interest? # CLASS: sms
+Sam 7:02 p.m: That could be fun 🎉 It's time to celebrate 🍾 # CLASS: sms
 You sigh. You had suggested the screening as something interesting you could all do together that wouldn't be quite as exhausting as staying out until 4 a.m. getting black-out drunk.
 But you're leaving in a few days. This could be your last chance to have any fun all summer. You'll be going to Washington D.C. to intern for an environmental nonprofit. It will be good for your career, but it probably won't be the time of your life— a feeling that was reinforced when you prematurely changed the location on your dating apps to D.C. You tried to imagine yourself hooking up with some clean-cut Capitol Hill intern and decided it was better to just accept now that it would likely be a dry summer.
 You don't want to ruin everyone else's fun by forcing them to what you want to do if they're not excited about it. But you can't imagine going to watch some documentary alone while everyone parties without you. 
 You think about what it would be like to sit by yourself in some hard plastic chair in a crowded overly air-conditioned bookstore, clutching a cup of cheap wine, waiting for the lights to dim. You'll scroll through your friend's posts and pretend you're fine being alone, but you won't be. You'll imagine Sam's mouth on some stranger's mouth. Someone who is funnier than you and more attractive. Your heart gives a little tug, and you brush it away. 
-  + SMS 7:18 p.m: Sure! Sounds fun! # CLASS: sms
+  + 7:18 p.m: Sure! Sounds fun! # CLASS: sms
         -> Section_8_x 
-  + SMS 7:18 p.m: Actually, I was really looking forward the film thing. # CLASS: sms
+  + 7:18 p.m: Actually, I was really looking forward the film thing. # CLASS: sms
         -> screwItThisIsntT 
 
 ==== screwItThisIsntT ====
@@ -134,7 +134,7 @@ You don't want this to end, but it's after eleven and everything in this town cl
         -> youAskForJaysNum 
 
 = sMSEzraPmOkayMay
-SMS Sam 7:35 p.m: Okay. Maybe we'll catch you after! # CLASS: sms
+Sam 7:35 p.m: Okay. Maybe we'll catch you after! # CLASS: sms
 Of course they would choose some party over you. You want to be mad at them, but the only person you really feel angry toward is yourself. Maybe if you were more attractive, or more interesting your friends would try harder. 
 You spend the next hour getting ready. You have no idea how to dress for a film screening. You settle on something all black. 
 The event is at a bookstore on the edge of campus. When you arrive you are surprised to see that there are so many people in attendance at something like this on a Friday night. The audience seems to be evenly split between college students and professors— or at least people within those age groups. 
@@ -149,7 +149,7 @@ You smile. "Well thanks for the advice. Maybe you could make a side hustle out o
 ==== youAskForJaysNum ====
 You ask for Jay's number, which {sub_p} happily enter{s} into your phone. A good sign. 
 You give an awkward little wave and head home. You're not quite sure what to do with yourself now, so you think about texting Sam and Skyler. 
-  + SMS 11:16 p.m: Are you still out? # CLASS: sms
+  + 11:16 p.m: Are you still out? # CLASS: sms
         -> sMSPmWereAtMyPla 
   + Go home
         -> whenYouGetHomeYo 
@@ -165,7 +165,7 @@ The end # CLASS: end
     -> END
 
 ==== sMSPmWereAtMyPla ====
-SMS 11:17 p.m: We're at my place. Come over. # CLASS: sms 
+11:17 p.m: We're at my place. Come over. # CLASS: sms 
 Your heart leaps at the invitation. It's a 15 minute walk to Sam's from where you are now. As you walk you notice you're a little tipsy from all the wine you nervously sipped on. 
 Sam opens the door and greets you with a warm hug. {sub_pc} look{s} effortlessly gorgeous as always. Your hand instinctively rushes to cover a constellation of acne on your jawline.  
 "How was your movie thingy?" Sam asks guiding you to the sectional where Skyler is already seated.  
@@ -422,11 +422,11 @@ You stare at Sam in the dark. You've had one-sided hookups before, but you didn'
 A wave of hurt washes over you, leaving you disoriented. It doesn't even occur to you to feel angry. Just embarrassed and confused. 
 "Okay then..." you say. You get dressed and stumble through the dark to find the door. 
 The next morning you wake up and immediately message Sam. 
-SMS 11:05 a.m: Last night was fun. Want brunch? # CLASS: sms
+11:05 a.m: Last night was fun. Want brunch? # CLASS: sms
 You hold off on eating while you wait for a response. You finally cave a little after three that afternoon and eat a bowl of cereal. You have to wait longer before your phone finally vibrates. 
-SMS Sam 4:48 p.m: Sorry! Slept late. # CLASS: sms 
-SMS 4:50 p.m: That's cool. Wanna grab dinner or something? # CLASS: sms
-SMS Sam 5:07 p.m: Can't, I'm pretty busy this week. I'll just see you when you get back! # CLASS: sms
+Sam 4:48 p.m: Sorry! Slept late. # CLASS: sms 
+4:50 p.m: That's cool. Wanna grab dinner or something? # CLASS: sms
+Sam 5:07 p.m: Can't, I'm pretty busy this week. I'll just see you when you get back! # CLASS: sms
 The end # CLASS: end
     + Restart # RESTART
     -> END
@@ -601,8 +601,8 @@ You want to talk to him about what happened with Lei. You want him to tell you i
 "The thing is, I'm afraid if I admit I did anything wrong I'll get in trouble...like legally or at school or something." 
 "Yeah, that's a real fear." Nathan's tone in knowing, but for some reason you find comfort in it. "But maybe if you start by apologizing it won't ever come to that. Otherwise you'll just always be living in fear"
 You decide you trust Nathan more than yourself. The next morning you wake up and spend an hour drafting a message to Lei. Once it's finished you make Nathan review the draft and hit send for you. 
-SMS 10:32 a.m: Hey. I've been doing a lot of reflecting this past month and I've come to terms with the fact that I don't feel good about what happened the last time we saw each other. I made a lot of assumptions about your interest in hooking up that night, and even if you actually think it was entirely consensual, I'm still sorry I didn't check in with you. It was messed up. I want to make it right. You could take time to think about it and we could talk about it in person when I get back from D.C. Or not if you don't want to see me. I hope you're having a good summer. # CLASS: sms 
-SMS Lei 10:36 a.m: Thank you. I would like to have that talk. I'll see you in September. # CLASS: sms
+10:32 a.m: Hey. I've been doing a lot of reflecting this past month and I've come to terms with the fact that I don't feel good about what happened the last time we saw each other. I made a lot of assumptions about your interest in hooking up that night, and even if you actually think it was entirely consensual, I'm still sorry I didn't check in with you. It was messed up. I want to make it right. You could take time to think about it and we could talk about it in person when I get back from D.C. Or not if you don't want to see me. I hope you're having a good summer. # CLASS: sms 
+Lei 10:36 a.m: Thank you. I would like to have that talk. I'll see you in September. # CLASS: sms
     
 The end # CLASS: end
     + Restart # RESTART
@@ -644,7 +644,7 @@ You walk wordlessly out the door, avoiding any contact with the eyes on you.
 Skyler's eyes widen. An immediate look of hurt followed by understanding registers across their face. 
 "Okay then..." Skyler turns around and walks back toward the house, glancing back as they disappear through the threshold. 
 You take out your phone.
-SMS 11:48 p.m: I'm so sorry. # CLASS: sms
+11:48 p.m: I'm so sorry. # CLASS: sms
     
 The end # CLASS: end
     + Restart # RESTART
@@ -671,29 +671,29 @@ The next day you can't stop dissecting your interaction with Lei. Maybe everythi
 ==== whatsThePointInS ====
 What's the point in stirring up old bad feelings? You make a decision then and there to move on. 
 A week later you text Olivia.
-SMS 7:45 p.m: If I fill out one more application today I'm going to scream. Want to go to Murphy's?
+7:45 p.m: If I fill out one more application today I'm going to scream. Want to go to Murphy's?
 No response. You don't think too much of it at first. Until a day passes, and then two. 
 You try again. 
-SMS 5:38 p.m: I'm thinking about tacos. Wanna do El Toro for dinner? # CLASS: sms
-SMS 8:40 p.m: Hey, you alive over there? # CLASS: sms
+5:38 p.m: I'm thinking about tacos. Wanna do El Toro for dinner? # CLASS: sms
+8:40 p.m: Hey, you alive over there? # CLASS: sms
 Olivia SMS 10:05 p.m: Hey. I talked to Lei after that night at the bar. {sub_pc} mentioned you had been pretty sketchy...I don't think it's a good idea for us to keep hanging out. # CLASS: sms
 # VIDEO: media/section_33.mp4
 It feels like someone lifted you 15 feet in the air and dropped you into a heap on the floor. You don't know what else to do. You text Lei.
-SMS 10:07 p.m: What have you been telling people?? # CLASS: sms
+10:07 p.m: What have you been telling people?? # CLASS: sms
 You fall asleep waiting for an answer, and when you wake up you still don't have one. You stay in bed all morning. You don't go downstairs for breakfast. Your stomach is gnawing with hunger, but the thought of actually eating anything makes you feel queasy. Finally, your phone vibrates.
-Lei SMS 11:32 a.m: Just the truth. # CLASS: sms 
-SMS 11:32 a.m: Which is??? # CLASS: sms
-Lei SMS 11:38 a.m: That you assaulted me. # CLASS: sms 
+Lei 11:32 a.m: Just the truth. # CLASS: sms 
+11:32 a.m: Which is??? # CLASS: sms
+Lei 11:38 a.m: That you assaulted me. # CLASS: sms 
     
 The end # CLASS: end
     + Restart # RESTART
     -> END
 
 ==== sMSAmItWasGoodSe ====
-SMS 10:32 a.m: It was good seeing you last night. # CLASS: sms 
-SMS 10:32 a.m. I was hoping we could talk about the last time we saw each other.  If you're open to it. I understand you might not be. # CLASS: sms 
+10:32 a.m: It was good seeing you last night. # CLASS: sms 
+10:32 a.m. I was hoping we could talk about the last time we saw each other.  If you're open to it. I understand you might not be. # CLASS: sms 
 And then you wait. You spend your day suspended between two realities, one where you did nothing wrong, and one where you did everything wrong. You realize this is nothing new. It's the same space you've been living in for two years. You check your phone constantly, waiting for some sort of external recognition that you're trying to make things better. It finally comes in the form of a small vibration.
-SMS Lei 4:00 p.m: We can talk. # CLASS: sms
+Lei 4:00 p.m: We can talk. # CLASS: sms
 # VIDEO: media/section_34.mp4
 You meet Lei in a park in the early evening. You sit on a sun-soaked bench and watch dueling kickball teams work hard for their post-game pitchers of beer.  As Lei approaches, you reach out to greet {obj_p} with a hug, but {pos_a} body language remains closed off and demure. You put your arms down. 
 You both do a good job of making small talk for a few minutes before Lei finally says, "so what did you want to talk about?"
@@ -746,9 +746,9 @@ You consider Lei's points, while your face is grows warm from the rejection. You
 You brush Lei's hand away and try to pull yourself together. You've embarrassed yourself enough for one night and it's time to leave. You rush out of the bedroom door and through the living room. The conversation halts as you head wordlessly for the front door.
 You power walk through the empty neighborhood. Shame froths around your insides. You are explosive. When you arrive home you head straight to bed, wriggling your pants off under the covers. The room starts spinning and you close your eyes willing it to stop.
 You grab your phone and stare at it. You want to text Sam. Maybe you should apologize for earlier. But maybe it's just easier to forget about it and try to move past it. It's not like it was that big of a deal.
-  + SMS 1:06 a.m: okay so guess what jus happened. # CLASS: sms
+  + 1:06 a.m: okay so guess what jus happened. # CLASS: sms
         -> ezraDoesntRespon 
-  + SMS 1:09 a.m: im sorry :(   # CLASS: sms
+  + 1:09 a.m: im sorry :(   # CLASS: sms
         -> youDozeOffHoldin 
 
 ==== iFeelBadThatThin ====
@@ -773,7 +773,7 @@ Outside you plod through the streets in the general direction of home, stewing i
 At home you crawl into bed, but the room starts spinning with such force that you immediately have get up to vomit. You don't make it to the toilet and resort to the bathtub. 
 You lay on the bathroom floor and press your hot face against the chilled tile. Tears leak from the corners of your eyes, extending cool thin lines to your temples. You know that these tears are only a byproduct of getting sick, but the expression does actually align with your current emotional state nicely. You don't bother wiping them away. 
 The next morning you text Sam an apology for snapping, and everything goes back to the way it was, as if by magic. You tell {obj_p} all about your night with Lei. 
-Sam SMS 12:04 p.m: That's so messed up. {sub_pc} {was_were} totally leading you on. # CLASS: sms
+Sam 12:04 p.m: That's so messed up. {sub_pc} {was_were} totally leading you on. # CLASS: sms
 You think about texting Lei too, but what would you say? Demand an apology? You decide to just leave it alone. It's not like you'll have to see {obj_p} for at least three months. 
 You keep a low profile for the rest of the week You spend your time packing and shopping for essentials for the humid, swamp-y summer you're about to experience.
 And then suddenly you arrive in D.C. to a new city, a new job, a new home, and a new life. You live in a house that you share with the five other interns a few blocks from the office of the environmental nonprofit. You all become fast friends. And while some part of you feels like you're the least interesting and experienced person of the group, you also notice you that for the first time in a long time you don't feel quite so alone. You go to museums. You party and sing karaoke, but you also have movie nights and watch documentaries. They bring you along for your first protest. When you suggest going to a book signing by one of your favorite non-fiction writers it is met with enthusiasm and follow through. 
@@ -818,7 +818,7 @@ Your mind wanders toward a night your freshman year. Ten of you had crammed into
 You wonder what could have happened if you had just invited {obj_p} over to hang out. Maybe {sub_p} didn't actually think of going to someone's room as an invitation to hook up like you did. Maybe you could have talked about it.
 You were starting to see how all of these unspoken rules you had been following about sex and hookups were kind of ridiculous. 
 In a fit of inspiration you pick up your phone. You don't need to think about it any more. You know what you need to do. 
-SMS  2:07 a.m: I'm sorry. # CLASS: sms 
+2:07 a.m: I'm sorry. # CLASS: sms 
     
 The end # CLASS: end
     + Restart # RESTART
@@ -846,8 +846,8 @@ Lei springs up and grabs you by the forearm. "Are you okay?"
 ==== youDozeOffHoldin ====
 # VIDEO: media/section_44.mp4
 You doze off holding your phone. Your sleep is fitful and full of vivid dreams. The second you open your eyes the next morning you grab your phone from next to the pillow. 
-SMS Sam 3:23 a.m. It's totally alright. # CLASS: sms
-SMS Sam 3:34 a.m.: BTW, you' ll never guess who I hooked up w tonight. # CLASS: sms
+Sam 3:23 a.m. It's totally alright. # CLASS: sms
+Sam 3:34 a.m.: BTW, you' ll never guess who I hooked up w tonight. # CLASS: sms
 You imagine all the people Sam could have hooked up with last night, each one hurting all the same. You've known for a long time Sam isn't actually interested in you and this is just more proof. You tell yourself that you need to be okay with this if you're going to stay friends. It's time to move on. 
     
 The end # CLASS: end
@@ -894,7 +894,7 @@ It's bright and slightly chilly. You walk together to a waffle cart that is situ
 "No. I would try, but my phone is dead."
 "Oh, here!" Lei takes a moment to dig through {pos_a} backpack. "I always carry a charger with me."
 You let your phone power up for a few minutes before turning it on. A few notifications pop up. One is from Sam.
-SMS Sam 4:08 a.m: Thanks for ditching me! I hope you had fun fucking your ex. # CLASS: sms
+Sam 4:08 a.m: Thanks for ditching me! I hope you had fun fucking your ex. # CLASS: sms
 Your entire body is radiating with heat. You can feel your cheeks turning red. 
 "Is everything okay?" Lei asks.
 "Not really. I guess Sam hates me now." You show Lei your phone.
