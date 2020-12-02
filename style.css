@@ -374,7 +374,7 @@ html {
   font-family: 'PalmerLakePrint-Regular', sans-serif;
   font-size: 64px;
   letter-spacing: 2px;
-  line-height: 32px;
+  /* line-height: 32px; */
   /* font-family: 'Feijoa Medium', Times, serif; */
   /* font-size: 20px; */
   /* line-height: 1.7em; */
@@ -382,7 +382,7 @@ html {
   background-color: #9b9b9b;
   border: 2px solid #9b9b9b;
   /* max-width: 230px; */
-  padding: 18px 84px 28px;
+  padding: 2px 84px 12px;
   text-align: center;
   transition: background-color .15s;
 }
