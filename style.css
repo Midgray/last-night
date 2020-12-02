@@ -237,6 +237,11 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Hide blue focus for js smooth scroll */
+#enter {
+  outline: none;
+}
+
 /* Above the fold */
 
 .above {
