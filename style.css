@@ -600,4 +600,8 @@ html {
       height: -webkit-fill-available;
     } */
     
+    /* Push title gif up to make room for down-arrow */
+    #title-gif {
+      margin-bottom: 5vh;
+    }
   }
