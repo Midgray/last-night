@@ -183,13 +183,13 @@ You tell them about meeting Jay.
 As you walk back to your apartment you can't believe how lucky you are. Not only was the film screening not awkward, but it seems like you might actually hook up with this hot senior tonight. You realize you haven't thought about Sam for hours. 
 "I want to be up front about something," Jay says cheerily. "I don't really do hookups, or one night stands, or whatever you want to call them."
 "Oh," you say. You're not surprised by the information, so much as Jay's directness. 
-    + "That's totally cool."
+    + ["That's totally cool."]
         -> Chapter_13.Cool_with_Jay
     + "Actually, I just remembered I have to get up early tomorrow."
         -> Chapter_13.Get_up_early_Jay
 
 = Cool_with_Jay
-"Are you like, asexual?" you ask. You're trying to sound accepting and progressive, but you realize that it probably just comes off as insulting for one reason or another. Shit. You're scrambling to think of ways to dial back your comment, but Jay just laughs. 
+"That's totally cool. Are you like, asexual?" you ask. You're trying to sound accepting and progressive, but you realize that it probably just comes off as insulting for one reason or another. Shit. You're scrambling to think of ways to dial back your comment, but Jay just laughs. 
 "No. Just old fashioned. I like to get to know people before having sex. I know it's super weird."
 "I don't think it sounds weird at all," you say. And you mean it. As fun as it might have been to hook up with Jay tonight, you realize sex being taken off the table has taken a weight out of your hands that you had no idea you were carrying.
 "Okay. Because if you're not into that I'm fine to just go home." You assure {obj_p} you are. 
