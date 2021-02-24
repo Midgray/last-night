@@ -123,7 +123,7 @@ Screw it. This isn't the first time Skyler and Sam have bailed on your plans. Yo
     -> Chapter_12.sMSEzraPmOkayMay
 
 ==== Chapter_12 ====
-You keep talking until the lights dim a bit and a hush falls over the crowd. You try to pay attention to the movie— some documentary about the environmental impact of dams— but all you can think about is the cute stranger standing next to you that you were just having fun conversation with. Once the lights are turned back up you are pleased to see the stranger seems as eager to resume your conversation as you are. You discover that {pos_a} name is Jay. {sub_pc} {is_are} studying communications and {sub_p} just finished {pos_a} junior year. {sub_pc} wanted to do creative writing, but {pos_a} parents made {obj_p} pick something that would give {obj_p} more job prospects. 
+You keep talking until the lights dim a bit and a hush falls over the crowd. You try to pay attention to the movie— some documentary about the environmental impact of dams— but all you can think about is the cute stranger standing next to you that you were just having a fun conversation with. Once the lights are turned back up you are pleased to see the stranger seems as eager to resume your conversation as you are. You discover that {pos_a} name is Jay. {sub_pc} {is_are} studying communications and {sub_p} just finished {pos_a} junior year. {sub_pc} wanted to do creative writing, but {pos_a} parents made {obj_p} pick something that would give {obj_p} more job prospects. 
 Eventually, you notice you are one of just a few people left in the store. The staff are trying to will you out the door with exasperated glances. 
     # VIDEO: media/section_7.mp4
 
@@ -166,23 +166,30 @@ The end # CLASS: end
 
 ==== sMSPmWereAtMyPla ====
 Sam 11:17 p.m: We're at my place. Come over. # CLASS: sms 
-Your heart leaps at the invitation. It's a 15 minute walk to Sam's from where you are now. As you walk you notice you're a little tipsy from all the wine you nervously sipped on. 
+Your heart leaps at the invitation. It's a 15-minute walk to Sam's from where you are now. As you walk you notice you're a little tipsy from all the wine you nervously sipped on. 
 Sam opens the door and greets you with a warm hug. {sub_pc} look{s} effortlessly gorgeous as always. Your hand instinctively rushes to cover a constellation of acne on your jawline.  
 "How was your movie thingy?" Sam asks, guiding you to the sectional where Skyler is already seated.  
 You tell them about meeting Jay. 
 "Well why aren't you hooking up like right now?" Skyler asks. 
-"I don't know. I thought about inviting {obj_p} back to my place, but I honestly just chickened out."
+"I don't know. I thought about inviting {obj_p} back to my place, but I don't know..."
 "Well good. It means you're here now." Sam says, pouring you a mug full of wine from a plastic spigot. You realize you're drinking an unusual amount of wine tonight. You are surprised and pleased that Sam has decided to sit between you and Skyler, but also somewhat unnecessarily close to you. Or do you always sit this close to each other? 
     -> atEzrasYouAllPil.skylerAndEzraSta
 
 ==== doYouWantToConti ====
-"Do you want to continue this conversation at my place?" You ask. 
+"Do you want to continue this conversation at my place?" you ask. 
     -> Chapter_13.jaySmilesIWouldL
 
 ==== Chapter_13 ====
 As you walk back to your apartment you can't believe how lucky you are. Not only was the film screening not awkward, but it seems like you might actually hook up with this hot senior tonight. You realize you haven't thought about Sam for hours. 
-"I want to be up front about something." Jay says cheerily. "I don't really do hookups, or one night stands, or whatever you want to call them."
-"Oh," you say. You're not surprised by the information, so much Jay's directness. "That's totally cool. Are you like, asexual?" You're trying to sound accepting and progressiv, but you realize that it probably just comes off as insulting for one reason or another. Shit. You're scrambling to think of ways to dial back your comment, but Jay just laughs. 
+"I want to be up front about something," Jay says cheerily. "I don't really do hookups, or one night stands, or whatever you want to call them."
+"Oh," you say. You're not surprised by the information, so much as Jay's directness. 
+    + "That's totally cool."
+        -> Chapter_13.Cool_with_Jay
+    + "Actually, I just remembered I have to get up early tomorrow."
+        -> Chapter_13.Get_up_early_Jay
+
+= Cool_with_Jay
+"Are you like, asexual?" you ask. You're trying to sound accepting and progressive, but you realize that it probably just comes off as insulting for one reason or another. Shit. You're scrambling to think of ways to dial back your comment, but Jay just laughs. 
 "No. Just old fashioned. I like to get to know people before having sex. I know it's super weird."
 "I don't think it sounds weird at all," you say. And you mean it. As fun as it might have been to hook up with Jay tonight, you realize sex being taken off the table has taken a weight out of your hands that you had no idea you were carrying.
 "Okay. Because if you're not into that I'm fine to just go home." You assure {obj_p} you are. 
@@ -204,6 +211,14 @@ As things progress you realize this is the first time you've had sex sober since
 The end # CLASS: end
     + Restart # RESTART
     -> END
+
+= Get_up_early_Jay
+"That's alright. I totally get it," Jay says.
+You give an awkward little wave and head home. You're not quite sure what to do with yourself now, so you think about texting Sam and Skyler. 
+  + 11:16 p.m: Are you still out? # CLASS: sms
+        -> sMSPmWereAtMyPla 
+  + Just go home.
+        -> whenYouGetHomeYo 
 
 = jaySmilesIWouldL
 Jay smiles. "I would love that!" 
