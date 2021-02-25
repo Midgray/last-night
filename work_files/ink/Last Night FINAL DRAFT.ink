@@ -193,18 +193,18 @@ As you walk back to your apartment you can't believe how lucky you are. Not only
 "No. Just old fashioned. I like to get to know people before having sex. I know it's super weird."
 "I don't think it sounds weird at all," you say. And you mean it. As fun as it might have been to hook up with Jay tonight, you realize sex being taken off the table has taken a weight out of your hands that you had no idea you were carrying.
 "Okay. Because if you're not into that I'm fine to just go home." You assure {obj_p} you are. 
-You spend the evening in your living room drinking wine and exchanging all the information you can about your lives up until the moment you met at the reading. You get tipsy, but you match Jay's speed and never cross over the threshold of drunk. You both fall asleep next to each other on the couch holding hands and move to your bed a little after midnight. 
-You realize that in spite of your half dozen college hookups, this is by far the most intimate you've been with anyone in years. You haven't even kissed.
-The next day you share your first kiss while picnicking at a swimming hole an hour outside of town. 
+You spend the evening in your living room drinking cheap beer scavaged from the back of the refrigerator and exchange all the information you can about your lives up until the moment you met at the reading. You get tipsy, but you match Jay's speed and never cross over the threshold of drunk. You both fall asleep next to each other on the couch holding hands and move to your bed as thin bands of morning light begin snaking through the cracks of the blinds.
+In spite of your half dozen college hookups, this is by far the most intimate you've been with anyone in years. You haven't even kissed.
+You do eventually share a kiss. It's the next day while picnicking at a swimming hole just an hour outside of town. 
 "I hate that I just met you and now I have to leave," you say. 
 "I know. But I'm really excited for you."
 "Thanks, I'm really excited too. I just didn't think I would meet someone like you." 
-"Well, just think about all the crazy sexual tension that's going to get built up over three months" Jay says laughing. "The payoff is going to be mind blowing."
+"Well, just think about all the crazy sexual tension that's going to get built up over the next three months" Jay says laughing. "The payoff is going to be mind blowing."
 "Well, I would love a little teaser of what's to come now." You say coyly. "Can I kiss you?"
-Jay smiles and leans over, your mouths meet softly. 
+Jay smiles and leans over, mouths meeting softly. 
 It's a perfect day. You lay on beach towels enjoying each other's lips and taking intermittent dips into the cool water until the sandy bank is fully enveloped in shadow.
 You continue to see Jay every single day until you leave for Washington D.C. During this time you learn that {sub_p} {was_were} assaulted the first month of {pos_a} freshman year. 
-"I like a lot of communication. And that goes both ways, of course." Jay tells you one night over a dinner of pasta with a jar of marinara. "Like I don't want to just make sure  I'm not being sketchy, I want to make sure you're actually having fun." You can't think of a single time someone you were  hooking up with checked to see if you were actually enjoying yourself. Maybe the person you dated in high school?
+"I like a lot of communication. And that goes both ways, of course." Jay tells you one night over a dinner of pasta with a jar of marinara. "Like I don't want to just make sure  I'm not being sketchy, I want to make sure you're actually having fun." You can't think of a single time someone you were  hooking up with checked to see if you were actually enjoying yourself.
 After dinner that evening you lay in bed talking and kissing. And then Jay asks if you're ready to take things further. You're surprised by the question, though by now you know you shouldn't be. 
 As things progress you realize this is the first time you've had sex sober since high school. You had become so afraid of this exact scenario but now you can't remember why. There's some fumbling around and awkward missed connections, but you don't mind. Suddenly it's all a part of the fun.
     
@@ -213,8 +213,10 @@ The end # CLASS: end
     -> END
 
 = Get_up_early_Jay
-"That's alright. I totally get it," Jay says.
-You give an awkward little wave and head home. You're not quite sure what to do with yourself now, so you think about texting Sam and Skyler. 
+"Oh, that's alright," Jay says with an expression that suggests this is nothing new.
+"I'm serious... it's nothing to do with you," you fumble. You know you're not convincing.
+"I know. It's totally fine." Jay insists. 
+"Okay then..." you give an awkward little wave and part ways. You're not quite sure what to do with yourself now, so you think about texting Sam and Skyler. 
   + 11:16 p.m: Are you still out? # CLASS: sms
         -> sMSPmWereAtMyPla 
   + Just go home.
@@ -250,7 +252,7 @@ You are informed that there is a keg in the kitchen. Sam grabs a cup from Skyler
 You consider the cup. You know the fate of not having a drink in your hand. You'll get concerned looks. And no one will flirt with you because no one wants to hook up with a sober person. 
   + "I'm good right now, thanks though!"
         -> seriouslyAreYouL 
-  + Take the cup
+  + [Take the cup]
         -> Section_11_x 
 
 ==== youHoldYourBreat ====
@@ -293,12 +295,12 @@ Of course, you continued to see {obj_p} on social media over the next few months
 So one day you quietly muted {obj_p} on every platform to try to make those bad feelings go away. You're surprised when you realize that you had practically forgotten {sub_p} existed for the past year. 
   + [Say hi]
         -> Section_14_x 
-  + Get out of there
+  + [Get out of there]
         -> youSpinAroundAnd 
 
 ==== youSpinAroundAnd ====
 You spin around and head back into the living room where you find Skyler and Sam. 
-"Guess who's in the kitchen?" You exclaim. 
+"Guess who's in the kitchen?" You ask them.
 "What? Who?" Skyler asks hungrily.
 "It's Lei. High school Lei."
 "That's so random," Sam says. "If my ex showed up at a party I was at I would be so weirded out."
@@ -318,8 +320,8 @@ You check the time on your phone. You missed the film. You could go with them. O
 Sam and Skyler look slightly taken aback.
 "Well, whatever." Sam says, and you realize {sub_p} {is_are} clearly angry with you. "I'm ready to go." {sub_pc} pause{s} as if waiting to give you a chance to change your mind. And you're tempted. You don't want to disappoint Sam, but you let {obj_p} walk out the door anyway.
 You return to the kitchen, scanning the crowd for Lei. You spot {obj_p} and try to catch {pos_a} eye as you walk toward {obj_p}. 
-Lei turns toward you. You both say hi at the same time, and it's a little awkward. You ask how {sub_p} {has_have} been, and the conversation keeps going beyond that. {sub_pc} tell{s} you about going to community college, about missing their friends, about transferring here for {pos_a} junior year. {sub_pc} {has_have} started a new job and {has_have} an apartment off campus. 
-You're relieved that the awkwardness has passed and that {sub_pc} {is_are} being friendly. It's been awhile, but maybe you're still friends after all. Maybe you just needed some time apart to realize you still cared about each other. 
+Lei turns your direction. You both say hi at the same time, and it's a little awkward. You ask how {sub_p} {has_have} been, and the conversation keeps going beyond that. {sub_pc} tell{s} you about going to community college, about missing {pos_a} friends, about transferring here for {pos_a} junior year. {sub_pc} started a new job and {has_have} an apartment off campus. 
+You're relieved that the awkwardness has passed and that {sub_p} {is_are} being friendly. It's been awhile, but maybe you're still friends after all. Maybe you just needed some time apart to realize you still cared about each other. 
 Talking to Lei feels comfortable and comforting. {sub_pc} {is_are} a lot easier to talk to than a lot of the people you've met since you started here. You're not sure if you miss being with {obj_p}, but this feels a little like coming home. 
 You do notice that {sub_p} {hasnt_havent} said anything about seeing anyone else. 
 You talk, you drink a few more beers. You play beer pong together. When you sink the winning shot Lei cheers and gives you a big hug. A shot glass filled with a clear liquid has appeared in your hand. "Let's celebrate!" {sub_p} exclaim{s}. 
@@ -421,9 +423,9 @@ Sam starts grabbing at the buttons of your shirt. You do the best you can to hel
 
 ==== whatAboutYouYouW ====
 "What about you?" You whisper nervously. "Do you like this?" You slip your hand under Sam's shirt. 
-"Keep going." Sam instructs. Articles of clothing pile onto the floor, one by one. You grapple awkwardly in the dark for each other's bodies, made all the more difficult by your present state of inebriation. Are you doing any of this right? 
+"Keep going." Sam instructs. Articles of clothing pile onto the floor, one by one. You grapple awkwardly in the dark for each other's bodies and find your way to the bed, made all the more difficult by your present state of inebriation. Are you doing any of this right? 
 # VIDEO: media/section_20.gif
-You feel a small push on your shoulders. You hesitate. The pressure from Sam's hands on your shoulders grows firmer, so you slip down between the covers.
+You feel a small push on your shoulders. You hesitate. The pressure grows firmer. You slip down between the covers.
 You enjoy the little squirms of pleasure from Sam's body as you find new ways to move against each other. Your tongue hits a spot that  solicits an audible recognition of pleasure. It's overwhelming and hard to breathe, but you focus on that spot until you feel a great shudder and sigh from above you. 
 "Did you finish?" You look up hopefully.
 "I did. Thank you." Sam says, eyes closed with a small smile. 
@@ -467,7 +469,7 @@ Finally you say, "I don't think that's really what I'm looking for right now."
 You don't know how to respond to this, so you just stand up, collect yourself, and walk out the door. You're such an idiot, you think to yourself as you walk down the street. That could have been your one chance to hook up with Sam again, and now it's gone. And for what? Do you really think you're going to do better than {obj_p}? 
 But there's also a small voice that says yes. You can and will do better. You wonder if that voice might be a little overly confident. Maybe somewhat conceited. 
 You don't talk to Sam for the rest of the week. But you're too busy getting ready to leave to even notice or care too much. Then suddenly you're boarding a plane and you're gone. In D.C. your life is so new and expansive you don't have much time to worry about what Sam thinks of you. You exchange a few brief DM's and texts over the following months, but it doesn't give you any sense of where your relationship will be when you get back. Will you still be friends?
-During your time in D.C. you become fast friends with the other interns. There are six of you, and you all live together in a shared house a few blocks from the office. Some part of you feels like you're the least cool and worldly of the group, but you also notice that for the first time in a long time you don't feel quite so alone. You go to museums. Sure, you party and go out dancing sometimes, but you also have movie nights and watch documentaries. They bring you along for your first protest. When you suggest going to an art opening on a Friday night in July it is met with enthusiasm and follow through. 
+During your time in D.C. you become fast friends with the other interns. There are six of you, and you all live together in a shared house a few blocks from the office. Some part of you feels like you're the least cool and worldly of the group, but you also notice that for the first time in a long time you don't feel quite so alone. You do interesting things together, like go to museums. Sure, you party and go out dancing sometimes, but you also have movie nights and watch documentaries. They bring you along for your first protest. When you suggest going to an art opening on a Friday night in July it is met with enthusiasm and follow through. 
 # VIDEO: media/section_21.mp4
 One Saturday night after singing yourself hoarse at karaoke you pile into a late-night Dim Sum restaurant. As you pass steaming plates of vegetable dumplings and cast iron pots of green tea around the table the conversation turns to swapping bad hookup stories. 
 "This one time during freshman year," your housemate Harper begins. "I got like black out drunk at a party. And this guy I had met just that night took me back to his room."
@@ -475,8 +477,8 @@ One Saturday night after singing yourself hoarse at karaoke you pile into a late
 "Oh yeah. It could have been bad. But I guess I threw up all over his bed, and his roommate's bed." Harper says shrugging. Everyone laughs. 
 "What! That is PERFECT!" Casey says from across the table. 
 "He threw me out of his room with no shoes. I remember walking back to my room barefoot. Luckily it wasn't like snowing or anything. And then the worst part is that I never got my shoes back! When I saw him a few weeks later he denied ever having them!" 
-"Wowwww," Nathan trills. "Rapey and a shoe thief. What a total package."
-The table continues to trade stories about various uncomfortable encounters.
+"Wow," Nathan trills. "A sketchy shoe theif. What a total package."
+The table continues recounting uncomfortable encounters.
 "I had this one girl totally try to guilt trip me for not wanting to sleep with her. She was like on top of me and I had to push her off. And then she was all 'well why did you invite me to your room if you don't think I'm attractive?' Casey laughs. "So manipulative. Like, who does that?"
 You remember your recent night with Sam. It was awkward for sure, but you had never thought about {pos_a} behavior as being manipulative before. 
 "I had something like that happen to me earlier this summer," you tell the story of what happened between you and Sam. You're feeling unsure of yourself. Will anyone actually think it's a big deal?
@@ -556,16 +558,16 @@ Lei stops and holds the book open to a page highlighting the Model United Nation
 Lei looks at you. Your faces are close. This feels like the moment you've been waiting for. 
   + "Is that all you want to be?"
         -> leiDoesntSayAnyt1 
-  + Kiss Lei
+  + [Kiss Lei]
         -> youPlaceYourMout 
 
 ==== youPlaceYourMout ====
 You place your mouth on Lei's. It's so familiar, but there's also something new that the years you spent apart brings. You want to explore all these new things. You continue kissing Lei hungrily as you gently push {obj_p} back onto the bed. 
 You remember your times together in high school. Of course, they were few and far between. You were never allowed to go to each other's houses without a parent being home, and a packed schedule of academics, sports, and clubs made the logistics of sneaking around difficult. 
-You wonder what it will be like now that you don't have to worry about your dad barging in, or someone walking by the window of the car. It had always been good, when you were together but now will it be louder? More uninhibited? You're eager to find out what Lei has learned in the time you spent with other people. 
+You wonder what it will be like now that you don't have to worry about your dad barging in, or someone walking by the window of the car. It had always been good when you were together, but what will it be like now? Louder? Uninhibited? You're eager to find out what Lei has learned in the time you spent with other people. 
 You remove your shirt and then start unbuttoning Lei's with one hand. Next your shorts. 
 You slide your hands down Lei's ribs toward the waistband of {pos_a} shorts and start to wriggle them off. As you're doing this it occurs to you that according to everything you learned at freshman year orientation this is supposed to be the moment you establish consent. But you've hooked up countless times before. {sub_pc} invited you back to {pos_a} house. To {pos_a} room. If that wasn't {pos_a} intention would you really be here right now? 
-And really you have a pretty spotty track record when it comes to talking about consent with your hookups and it's always been fine. Of course, it's been brought up a few times over the years. Once someone actually laughed at you for asking if you could kiss {obj_p}. You remember your entire body growing sweaty with embarrassment. After that you decided maybe you were being a little uptight. 
+And really you have a pretty spotty track record when it comes to talking about consent with your hookups. It's always been fine. Of course, it's been brought up a few times over the years. Once someone actually laughed at you for asking if you could kiss {obj_p}. You remember your entire body growing sweaty with embarrassment. After that you decided maybe you were being a little uptight. 
   + "Are you okay with this?"
         -> theresALongPause 
   + Get on with it.
@@ -625,7 +627,7 @@ The end # CLASS: end
 
 ==== youCantRiskYourF ====
 You can't risk your friendship with Nathan. You're better off trying to forget about it. 
-The rest of the summer passes you by quickly. You say your goodbyes and find yourself back home starting the fall term. You've tried to put the stuff with Lei from earlier than summer out of your mind, but you can't help but always be looking for {obj_p} on campus. 
+The rest of the summer passes you by quickly. You say your goodbyes and find yourself back home starting the fall term. You've tried to put the stuff with Lei from earlier that summer out of your mind, but you can't help but always be looking for {obj_p} on campus. 
 A week after classes start you're walking to a party with Sam and Skyler. It's at the same house you had been to earlier in the summer.
 "I hope Lei isn't there," you say mostly for your own benefit. But you catch a look traded between Sam and Skyler. 
 "Wait. What? What's up?" You ask. 
@@ -686,7 +688,7 @@ The next day you can't stop dissecting your interaction with Lei. Maybe everythi
 ==== whatsThePointInS ====
 What's the point in stirring up old bad feelings? You make a decision then and there to move on. 
 A week later you text Olivia.
-7:45 p.m: If I fill out one more application today I'm going to scream. Want to go to Murphy's?
+7:45 p.m: If I fill out one more application today I'm going to scream. Want to go to Murphy's? # CLASS: sms
 No response. You don't think too much of it at first. Until a day passes, and then two. 
 You try again. 
 5:38 p.m: I'm thinking about tacos. Wanna do El Toro for dinner? # CLASS: sms
@@ -713,20 +715,20 @@ Lei 4:00 p.m: We can talk. # CLASS: sms
 You meet Lei in a park in the early evening. You sit on a sun-soaked bench and watch dueling kickball teams work hard for their post-game pitchers of beer.  As Lei approaches, you reach out to greet {obj_p} with a hug, but {pos_a} body language remains closed off and demure. You put your arms down. 
 You both do a good job of making small talk for a few minutes before Lei finally says, "so what did you want to talk about?"
 "I guess," you begin, stumbling a bit around the shape of your own mouth. "I guess, I want to know what you think happened that night I went to your apartment. And I want to know why you never started school that Fall."
-And Lei tells you everything. In no uncertain terms, you come to understand the events of that night from {pos_a} point of view. Lei explains that it felt like you exploited {pos_a} interest in rekindling your friendship to get what you wanted.That you took a sense of trust from {obj_p}. That you assaulted {obj_p}.
+And Lei tells you everything. In no uncertain terms, you come to understand the events of that night from {pos_a} point of view. Lei explains that it felt like you exploited {pos_a} interest in rekindling your friendship to get what you wanted. That you took a sense of trust from {obj_p}. That you assaulted {obj_p}.
 You fight back tears. You don't want to make this moment about your pain. 
 "Why didn't you tell me?" You say quietly. 
 "Because, you broke my trust so completely. I didn't feel like I could tell you about how I felt about what happened that night and have confidence that you would hear me. You just seemed too wrapped up in yourself."
 "I was so confused about what happened that night." Lei continues. "I didn't know what to even think for a few days. And then I told a friend who was like...'it kind of sounds like you were raped.'" You wince. 
 "And at first I thought that was just ridiculous. But the longer I sat with it with it I started realizing he was right. But then I knew that if I confronted you then you might tell me I was wrong. And then I would question myself. I just didn't have that sort of confidence yet. It became more important for me to work on fully believing myself, rather than trying to convince anyone else."
 "That makes a lot of sense." You say. You wish you could reach out and hold Lei's hand. But you know you can't. "And that's why you left school?"
-"Basically. A month before Fall term was supposed to start I was accepted to a school where I had been waitlisted. Of course, I was already settled in at work, making some friends, and academically it was just a lateral move. But I decided the easiest thing for me to do was to leave. I had this rare opportunity to start over. I could put it all behind me and be done with it. There would be no risk of running into you around campus or at work. Finding a new job was sort of difficult that late in the summer, but I made it work."
+"Basically. A month before Fall term was supposed to start I was accepted to a school where I had been waitlisted. Academically it was just a lateral move but I had this rare opportunity to start over. I could put that false start behind me and be done with it. There would be no risk of running into you around campus or at work. We'd never have to deal with it. Finding a new job was sort of difficult that late in the summer, but I made it work."
 "Why were you so nice to me when we saw each other again?" You're almost angry at Lei for leading you to believe things had been okay when you saw {obj_p} at the bar. 
 "I saw you sitting with Olivia when I walked in. I didn't want to make things weird in public" Lei pauses for a moment. "Can I ask you a question?"
 "Of course."
 "Why didn't you ever reach out?"
 The conversation continues like that for a while. Each person hoping to have the draft of the story that they had written about that night would be corroborated by the other. Eventually you reach a place of complete mutual understanding. You apologize, you ask if there's anything you can do to make it right. 
-"I've done a lot of work on healing and rebuilding my ability to trust this past year. At this point I think I just need to know you learned something from this conversation and that you're not going to do this to anyone else ever again."
+"At this point I think I just need to know you learned something from all of this. That you're not going to do it to anyone else."
 "Of course," you say. 
     
 The end # CLASS: end
@@ -735,7 +737,7 @@ The end # CLASS: end
 
 ==== theresALongPause ====
 There's a long pause. You're not sure Lei heard you. You ask again.
-"I...um..." Lei trails off, the distance between you grows pregnant with disappointment.
+"I...um..." Lei trails off. The space between you grows pregnant with disappointment.
 "So is this not okay?" You ask again, but you already know the answer.
 "I mean, not yet. Not right now." Lei turns {pos_a} head away from you. You know {theyre} hiding some expression from you.  
   + "Then why did you even invite me here?"
@@ -750,7 +752,7 @@ There's a long pause. You're not sure Lei heard you. You ask again.
 You consider Lei's points, while your face grows warm from the rejection. You're having trouble focusing on anything apart from your own swimming thoughts. You're caught between your own hurt feelings and understanding that Lei might have a point. You know you want to say something but the harder you try to come up with the words the more distant language starts to feel.
   + "I'm sorry."
         -> iFeelBadThatThin 
-  + Leave.
+  + [Leave.]
         -> itsOkayReallyLei 
 
 ==== itsOkayReallyLei ====
@@ -780,11 +782,11 @@ Lei's head snaps back toward you and flashes from anguish to bewilderment.
 "Whoa, what? That's not what I mean..."
 "What do you mean exactly? Because it sounds like you came here wanting something. I get that, and that's not the iss—"
 "Well, what exactly is the issue then?" You interrupt, your tone wet with venom. 
-"The issue is that you didn't get what you want and now it's supposed to be my fault. But it never occurred to you that I'm a person with my own thoughts mission to find a hookup. 
+"The issue is that you didn't get what you want and now it's supposed to be my fault. But you never cared what I wanted." 
 You feel like a cornered animal. You want to say it's all bullshit. That you don't deserve to be treated this way. 
 Before you can say anything Lei turns away from you. "I think you should go." 
 You arrange your clothes and try to steady yourself as you stand up. You try to think of something to say— anything that will absolve you from the litany of terrible feelings that are whirling around inside of you while admitting no wrong. But the words never come, so you say "goodbye" in a low, hoarse whisper and walk out the door. 
-Outside you plod through the streets in the general direction of home, stewing in your own frustration and indignation. Why would Lei lead you on like that and then make you out to be the asshole.
+Outside you plod through the streets in the general direction of home, stewing in your own frustration and indignation. Why would Lei lead you on and then make you out to be an asshole?
 At home you crawl into bed, but the room starts spinning with such force that you immediately get up to vomit. You don't make it to the toilet and resort to the bathtub. 
 You lay on the bathroom floor and press your hot face against the chilled tile. Tears leak from the corners of your eyes, extending cool thin lines to your temples. You know that these tears are only a byproduct of getting sick, but the expression does actually align with your current emotional state nicely. You don't bother wiping them away. 
 The next morning you text Sam an apology for snapping, and everything goes back to the way it was, as if by magic. You tell {obj_p} all about your night with Lei. 
@@ -799,7 +801,7 @@ One Saturday night toward the end of July after hours of dancing you pile into a
 "Oh yeah. It could have been bad. But I guess I threw up all over his bed and his roommate's bed." Harper says shrugging. Everyone laughs. 
 "What! That is perfect!" Casey declares from across the table. 
 "He threw me out of his room with no shoes. I remember walking back to my room barefoot. Luckily it wasn't like snowing or anything. And then the worst part is that I never got my shoes back! When I saw him a few weeks later he denied ever having them!" 
-"Wow," Nathan trills. "Rapey and a thief. What a total package." The table continues to trade stories about various uncomfortable encounters. 
+"Wow," Nathan trills. "A sketchy shoe theif. What a total package." The table continues to trade stories about uncomfortable close encounters. 
 "I had this one girl totally try to guilt trip me for not wanting to sleep with her. She was like on top of me and I had to push her off. And then  she was all 'well why did you invite me to your room if you don't think I'm attractive?' Casey laughs. "So manipulative. Like, who does that?"
   + "Well, why did you?" 
         -> youAskAbruptlyIf 
@@ -820,7 +822,7 @@ The end # CLASS: end
 
 ==== youAskAbruptlyIf ====
 "If you didn't want to hook up with her, I mean? Isn't that like leading her on?" Your tone is abrupt. You can feel everyone's eyes on you. An observation that had seemed obvious seconds ago suddenly feels very wrong. You can't articulate why.
-Casey seems to take the question at face value. "You know, I don't think so. I definitely thought she was cut and I was having fun. But I had just wanted to keep hanging out with her." 
+Casey seems to take the question at face value. "You know, I don't think so. I definitely thought she was cute and I was having fun. But I had just wanted to keep hanging out with her." 
 Casey's expression becomes soft and thoughtful. "But I guess I don't think that inviting someone over means I have to have sex with them, or anything like that. Like, sometimes at 2 a.m. the only place to go is back to someone's room if you want to keep hanging out."
 You take a bite of your pancakes, flipping Casey's words around in your head. You think about that night with Lei at the beginning of the summer. 
 Nathan chimes in. "I mean, it's pretty entitled to think someone ever owes you sex for any reason. Or to throw a fit if they decide they don't want to." There are nods of agreement around the table. You make a point of nodding too. You know Nathan is talking about the girl in Casey's story, but you can't help but feel the comment is leveled directly at you. 
@@ -831,7 +833,7 @@ Is it actually possible you could have been so wrong about Lei? You had learned 
 Your mind wanders toward a night your freshman year. Ten of you had crammed into Skyler's dorm room with a few bottles of vodka. You wound up sitting next to Rian who you had a chemistry lab with earlier that year. You talked for hours, barely noticing anyone else in the room. There was definitely a connection there, but you were having trouble telling if you were interested in {obj_p} just as a friend or something more. Eventually, an RA came by and expelled everyone from the residence into the frosty February night. You really didn't want to stop hanging out with Rian, but you had nowhere else to go. You had thought about inviting {obj_p} to your room, but you knew it was too soon. So you said goodbye. It was almost an entire year before you saw {obj_p} again. 
 # VIDEO: media/section_41.mp4
 You wonder what could have happened if you had just invited {obj_p} over to hang out. Maybe {sub_p} didn't actually think of going to someone's room as an invitation to hook up like you did. Maybe you could have talked about it.
-You were starting to see how all of these unspoken rules you had been following about sex and hookups were kind of ridiculous. 
+You were starting to see how all of these unspoken rules you had been following about sex and hookups were kind of silly.
 In a fit of inspiration you pick up your phone. You don't need to think about it any more. You know what you need to do. 
 2:07 a.m: I'm sorry. # CLASS: sms 
     
@@ -840,7 +842,7 @@ The end # CLASS: end
     -> END
 
 ==== leiDoesntSayAnyt1 ====
-Lei doesn't say anything for a minute. 
+Lei doesn't say anything for a minute. This isn't the response you were expecting.
 "Look, I don't know for sure. I'm definitely not eager to start anything intimate again right now if that's what you mean."
 A little "oh" of surprise escapes from somewhere deep in your chest. 
 "You were right when you broke up with me before graduation. We're young. We shouldn't be so codependent on each other"
@@ -892,7 +894,7 @@ Lei leans over and gives you a hug.
     -> Chapter_11
 
 = maybeWeCanHangOu
-"Maybe we can hang out again for you head out of town? What about brunch tomorrow? I'm going to need something greasy for the inevitable hangover."
+"Maybe we can hang out again before you head out of town? What about brunch tomorrow? I'm going to need something greasy for the inevitable hangover."
 "Yeah. That sounds great." You're relieved Lei wants to see you ever again. "I should head home now though. I'll text you in the morning?"
 "Okay. But it's so late." Lei pauses and seems unsure of what they're going to say next.
 "If you want to stay over you can. But I mean totally platonic! You have to keep your hands to yourself."
