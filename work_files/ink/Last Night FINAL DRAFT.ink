@@ -193,7 +193,7 @@ As you walk back to your apartment you can't believe how lucky you are. Not only
 "No. Just old fashioned. I like to get to know people before having sex. I know it's super weird."
 "I don't think it sounds weird at all," you say. And you mean it. As fun as it might have been to hook up with Jay tonight, you realize sex being taken off the table has taken a weight out of your hands that you had no idea you were carrying.
 "Okay. Because if you're not into that I'm fine to just go home." You assure {obj_p} you are. 
-You spend the evening in your living room drinking cheap beer scavaged from the back of the refrigerator and exchange all the information you can about your lives up until the moment you met at the reading. You get tipsy, but you match Jay's speed and never cross over the threshold of drunk. You both fall asleep next to each other on the couch holding hands and move to your bed as thin bands of morning light begin snaking through the cracks of the blinds.
+You spend the evening in your living room drinking cheap beer scavenged from the back of the refrigerator and exchange all the information you can about your lives up until the moment you met at the reading. You get tipsy, but you match Jay's speed and never cross over the threshold of drunk. You both fall asleep next to each other on the couch holding hands and move to your bed as thin bands of morning light begin snaking through the cracks of the blinds.
 In spite of your half dozen college hookups, this is by far the most intimate you've been with anyone in years. You haven't even kissed.
 You do eventually share a kiss. It's the next day while picnicking at a swimming hole just an hour outside of town. 
 "I hate that I just met you and now I have to leave," you say. 
@@ -424,7 +424,7 @@ Sam starts grabbing at the buttons of your shirt. You do the best you can to hel
 ==== whatAboutYouYouW ====
 "What about you?" You whisper nervously. "Do you like this?" You slip your hand under Sam's shirt. 
 "Keep going." Sam instructs. Articles of clothing pile onto the floor, one by one. You grapple awkwardly in the dark for each other's bodies and find your way to the bed, made all the more difficult by your present state of inebriation. Are you doing any of this right? 
-# VIDEO: media/section_20.gif
+# VIDEO: media/section_20.mp4
 You feel a small push on your shoulders. You hesitate. The pressure grows firmer. You slip down between the covers.
 You enjoy the little squirms of pleasure from Sam's body as you find new ways to move against each other. Your tongue hits a spot that  solicits an audible recognition of pleasure. It's overwhelming and hard to breathe, but you focus on that spot until you feel a great shudder and sigh from above you. 
 "Did you finish?" You look up hopefully.
